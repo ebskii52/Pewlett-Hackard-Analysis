@@ -1,0 +1,692 @@
+dept_name,emp_no,first_name,last_name,birth_date,gender,title,from_date,to_date
+Development,423633,Mariusz,Tokunaga,1965-01-30,F,Senior Engineer,1985-02-11,9999-01-01
+Development,403010,Toshimitsu,Sluis,1965-01-16,M,Senior Engineer,1985-02-18,9999-01-01
+Development,289454,Bowen,Narwekar,1965-01-20,M,Senior Engineer,1985-03-08,9999-01-01
+Development,216375,Byong,Gustavson,1965-01-16,M,Senior Engineer,1985-03-12,9999-01-01
+Production,208784,Pranjal,Juneja,1965-01-30,F,Senior Engineer,1985-03-21,9999-01-01
+Production,88422,Jungsoon,Birsak,1965-01-28,M,Technique Leader,1985-04-03,9999-01-01
+Research,476361,Doohun,Preusig,1965-01-09,M,Technique Leader,1985-04-13,9999-01-01
+Production,52038,Chikako,Armand,1965-01-13,M,Senior Engineer,1985-05-18,9999-01-01
+Development,78871,Conor,Ghandeharizadeh,1965-01-15,M,Senior Engineer,1985-05-25,9999-01-01
+Production,262636,Tamiya,Reutenauer,1965-01-04,F,Senior Engineer,1985-06-02,9999-01-01
+Marketing,248351,Jaana,Milicia,1965-02-01,M,Senior Staff,1985-06-02,9999-01-01
+Production,255466,Huan,Roccetti,1965-01-18,M,Senior Engineer,1985-07-03,9999-01-01
+Customer Service,295030,Fun,Keirsey,1965-01-01,M,Senior Staff,1985-07-09,9999-01-01
+Production,73233,Shigeo,Merey,1965-01-15,F,Senior Engineer,1985-07-30,9999-01-01
+Development,80889,Shigeo,Linnainmaa,1965-01-07,F,Senior Engineer,1985-07-30,9999-01-01
+Production,445941,Masako,Dechter,1965-01-11,M,Technique Leader,1985-09-25,9999-01-01
+Customer Service,53431,Sham,Vasanthakumar,1965-01-12,M,Senior Staff,1985-10-24,9999-01-01
+Development,472790,Zhenbing,Ibel,1965-01-23,M,Senior Engineer,1985-10-29,9999-01-01
+Sales,444208,Irena,Cesareni,1965-01-27,M,Senior Staff,1985-10-30,9999-01-01
+Development,220029,Demos,Asser,1965-01-17,F,Senior Engineer,1985-11-04,9999-01-01
+Development,294461,Siddarth,Rosiles,1965-01-14,F,Senior Engineer,1985-11-18,9999-01-01
+Development,21843,Karsten,Azadmanesh,1965-01-09,M,Senior Engineer,1985-11-29,9999-01-01
+Sales,79895,Fei,Murtagh,1965-01-30,M,Senior Staff,1986-01-19,9999-01-01
+Production,290563,Shigehiro,Oxenboll,1965-01-09,F,Senior Engineer,1986-02-26,9999-01-01
+Development,77030,Faiza,Garnham,1965-01-02,F,Technique Leader,1986-03-02,9999-01-01
+Production,472950,Weidon,Fordan,1965-01-29,F,Senior Engineer,1986-03-27,9999-01-01
+Sales,460920,Remzi,Mitzlaff,1965-01-22,F,Senior Staff,1986-04-06,9999-01-01
+Research,266862,Mart,Plumb,1965-01-10,F,Senior Staff,1986-04-21,9999-01-01
+Quality Management,52778,Alain,Penn,1965-01-15,M,Technique Leader,1986-05-03,9999-01-01
+Sales,36626,Fen,Genin,1965-01-02,M,Senior Staff,1986-05-09,9999-01-01
+Sales,230689,Dietrich,Crabtree,1965-01-14,F,Senior Staff,1986-05-24,9999-01-01
+Development,277829,Michaela,Fandrianto,1965-01-22,M,Senior Engineer,1986-06-02,9999-01-01
+Research,451275,Bedrich,Isard,1965-01-25,M,Senior Staff,1986-06-07,9999-01-01
+Development,450255,Udo,Waymire,1965-01-31,M,Technique Leader,1986-06-14,9999-01-01
+Customer Service,85874,Pasqua,Taubman,1965-01-30,F,Senior Staff,1986-06-23,9999-01-01
+Production,234739,Foong,Aamodt,1965-01-31,M,Senior Engineer,1986-06-28,9999-01-01
+Sales,275801,Ayakannu,Heinisuo,1965-01-22,F,Senior Staff,1986-06-28,9999-01-01
+Sales,416420,Adamantios,Heemskerk,1965-01-22,M,Senior Staff,1986-08-08,9999-01-01
+Development,445570,Van,Nations,1965-01-25,F,Technique Leader,1986-08-11,9999-01-01
+Production,481764,Teiji,Marrakchi,1965-01-27,M,Senior Engineer,1986-08-26,9999-01-01
+Development,28974,Chenxi,Sundgren,1965-01-09,F,Senior Engineer,1986-09-02,9999-01-01
+Production,63631,Falguni,Cherinka,1965-01-22,M,Senior Engineer,1986-09-08,9999-01-01
+Development,29679,Kolar,Steenbeek,1965-01-17,M,Senior Engineer,1986-10-18,9999-01-01
+Production,474796,Zongyan,Shackel,1965-01-10,M,Technique Leader,1986-11-09,9999-01-01
+Sales,78106,Ashish,Ratnaker,1965-01-09,M,Senior Staff,1986-11-10,9999-01-01
+Development,40983,Marla,Cherinka,1965-01-17,F,Technique Leader,1986-12-01,9999-01-01
+Development,79606,Arnd,Peir,1965-01-03,F,Senior Engineer,1986-12-11,9999-01-01
+Development,263439,Atreye,Kabayashi,1965-01-09,M,Senior Engineer,1986-12-15,9999-01-01
+Production,23396,Hilari,Fairtlough,1965-01-02,F,Technique Leader,1986-12-15,9999-01-01
+Development,34446,Chinhyun,Bauknecht,1965-01-31,M,Senior Engineer,1986-12-19,9999-01-01
+Quality Management,450309,Gill,Orlowska,1965-01-08,M,Technique Leader,1986-12-25,9999-01-01
+Development,47515,Naraig,Jenevein,1965-01-26,M,Senior Engineer,1987-01-18,9999-01-01
+Production,402664,Subhada,Janetzko,1965-01-04,F,Senior Engineer,1987-01-25,9999-01-01
+Sales,105520,Haldun,Lienhardt,1965-01-01,M,Senior Staff,1987-01-29,9999-01-01
+Customer Service,401420,Florian,Uhrig,1965-01-06,F,Senior Staff,1987-01-31,9999-01-01
+Development,107486,Siamak,Luiz,1965-01-23,F,Senior Engineer,1987-02-11,9999-01-01
+Quality Management,38550,JoAnne,Baez,1965-01-14,F,Senior Engineer,1987-02-16,9999-01-01
+Production,463212,Ramya,Rossi,1965-01-09,F,Senior Engineer,1987-03-02,9999-01-01
+Development,83805,Manohar,Harllee,1965-01-23,F,Senior Engineer,1987-03-11,9999-01-01
+Human Resources,202950,Giordano,Pietrzykowski,1965-01-17,F,Senior Staff,1987-03-26,9999-01-01
+Sales,74668,Masako,Bonifati,1965-01-01,F,Senior Staff,1987-04-09,9999-01-01
+Production,452956,Gou,Thombley,1965-01-17,M,Senior Engineer,1987-04-09,9999-01-01
+Production,235368,Anneli,Joslin,1965-01-09,M,Senior Engineer,1987-04-12,9999-01-01
+Finance,262208,Mrinalini,Holburn,1965-01-16,M,Senior Staff,1987-04-20,9999-01-01
+Marketing,67320,Sadok,Lorys,1965-01-18,M,Senior Staff,1987-05-10,9999-01-01
+Human Resources,293080,Hideyuki,Slaats,1965-01-12,M,Senior Staff,1987-05-30,9999-01-01
+Production,261184,Masako,Kornatzky,1965-01-30,M,Senior Engineer,1987-08-29,9999-01-01
+Production,296664,Dipayan,Geffroy,1965-01-31,M,Senior Engineer,1987-09-17,9999-01-01
+Production,406125,Georgi,Portugali,1965-01-25,F,Technique Leader,1987-09-27,9999-01-01
+Sales,238949,Minghong,Cronin,1965-01-09,F,Senior Staff,1987-10-04,9999-01-01
+Sales,41609,Yucai,Simmen,1965-01-04,F,Senior Staff,1987-10-13,9999-01-01
+Sales,58819,Gennady,Liesche,1965-01-04,F,Senior Staff,1987-12-02,9999-01-01
+Production,296718,Kamakshi,Bahl,1965-01-30,F,Senior Engineer,1987-12-22,9999-01-01
+Development,233114,Alselm,Gargeya,1965-01-20,M,Senior Engineer,1987-12-25,9999-01-01
+Production,401574,Yannik,Falco,1965-01-13,M,Technique Leader,1988-01-15,9999-01-01
+Development,284711,Martijn,Azevdeo,1965-01-21,M,Senior Engineer,1988-02-10,9999-01-01
+Quality Management,284561,Duri,Beznosov,1965-01-03,F,Senior Engineer,1988-02-15,9999-01-01
+Sales,21546,Yongmin,Lanteri,1965-01-01,F,Senior Staff,1988-02-16,9999-01-01
+Quality Management,84942,Shin,Fujisaki,1965-01-15,F,Technique Leader,1988-02-23,9999-01-01
+Development,87783,Conor,Thorensen,1965-01-26,M,Senior Engineer,1988-02-24,9999-01-01
+Marketing,58147,Shigenori,Sullins,1965-01-09,M,Senior Staff,1988-02-24,9999-01-01
+Customer Service,64209,Golgen,Schoegge,1965-01-24,M,Senior Staff,1988-02-26,9999-01-01
+Human Resources,436827,Wojceich,Limongiello,1965-01-30,F,Senior Staff,1988-03-10,9999-01-01
+Production,295255,Jacopo,Bellone,1965-01-04,M,Technique Leader,1988-03-13,9999-01-01
+Development,41520,Xiong,Uhrik,1965-01-20,M,Senior Engineer,1988-03-21,9999-01-01
+Production,93600,Kristina,Neimat,1965-01-13,M,Technique Leader,1988-04-18,9999-01-01
+Development,457411,Xudong,Peck,1965-01-13,M,Senior Engineer,1988-04-18,9999-01-01
+Production,46811,Junsik,Berendt,1965-01-10,M,Senior Engineer,1988-04-27,9999-01-01
+Quality Management,219035,Kristine,Bierman,1965-01-18,F,Technique Leader,1988-05-13,9999-01-01
+Production,275881,Jiann,Munro,1965-01-08,M,Senior Engineer,1988-05-18,9999-01-01
+Research,32649,Ingmar,Nannarelli,1965-01-12,M,Senior Staff,1988-06-10,9999-01-01
+Sales,413205,Mototsugu,Prampolini,1965-01-09,M,Senior Staff,1988-06-12,9999-01-01
+Finance,109598,Stamatina,Auyong,1965-02-01,M,Senior Staff,1988-07-05,9999-01-01
+Sales,423038,Takushi,Strehl,1965-01-20,M,Senior Staff,1988-10-04,9999-01-01
+Production,475087,Genevieve,Snedden,1965-01-31,F,Senior Engineer,1988-10-21,9999-01-01
+Production,414543,Bernd,Anick,1965-01-03,F,Senior Engineer,1988-11-19,9999-01-01
+Development,423993,Seshu,Kolvik,1965-01-01,F,Technique Leader,1988-12-09,9999-01-01
+Production,63419,Hiroyasu,Seuren,1965-01-14,F,Senior Engineer,1989-03-05,9999-01-01
+Human Resources,484126,Manton,Lueh,1965-01-05,F,Senior Staff,1989-04-07,9999-01-01
+Development,273159,Divine,Hofmeyr,1965-01-26,F,Technique Leader,1989-04-14,9999-01-01
+Sales,251301,Pintsang,Impagliazzo,1965-01-30,M,Senior Staff,1989-05-06,9999-01-01
+Quality Management,56847,Menkae,Chinin,1965-01-14,M,Senior Engineer,1989-08-19,9999-01-01
+Human Resources,447135,Gennady,Rouquie,1965-01-31,M,Senior Staff,1989-08-24,9999-01-01
+Production,71685,Kristinn,Olano,1965-01-01,F,Senior Engineer,1989-10-03,9999-01-01
+Development,44540,Mingzeng,Sadowski,1965-01-16,F,Senior Engineer,1989-11-12,9999-01-01
+Research,469867,Hein,Jonsson,1965-01-23,M,Senior Staff,1990-02-12,9999-01-01
+Production,70990,Arumugam,Nitta,1965-01-22,F,Senior Engineer,1990-03-23,9999-01-01
+Research,204246,Arve,Worfolk,1965-01-09,M,Senior Staff,1990-04-01,9999-01-01
+Research,443485,Marke,Klerer,1965-01-23,M,Senior Staff,1990-04-14,9999-01-01
+Quality Management,410881,Koichi,Grabner,1965-01-06,F,Senior Engineer,1990-04-24,9999-01-01
+Production,86546,Oldrich,Woycyznski,1965-01-09,F,Senior Engineer,1990-05-15,9999-01-01
+Development,475965,Rimon,Pietracaprina,1965-01-02,M,Senior Engineer,1990-07-10,9999-01-01
+Development,251680,Moty,Sommen,1965-01-05,F,Senior Engineer,1990-08-14,9999-01-01
+Development,47262,Gonzalo,Binkley,1965-01-10,M,Senior Engineer,1990-08-16,9999-01-01
+Marketing,90692,Rajmohan,DasSarma,1965-01-03,M,Senior Staff,1990-09-14,9999-01-01
+Development,106695,Lijie,Garrabrants,1965-01-31,F,Senior Staff,1990-10-02,9999-01-01
+Development,204425,Gretta,Huttel,1965-01-03,F,Senior Engineer,1990-10-08,9999-01-01
+Customer Service,108091,Hisao,Ghemri,1965-01-09,M,Senior Staff,1990-11-14,9999-01-01
+Research,220799,Perla,Orlowska,1965-01-17,F,Senior Engineer,1990-12-03,9999-01-01
+Quality Management,34533,Erzsebet,Shigei,1965-01-10,M,Senior Engineer,1991-01-21,9999-01-01
+Development,51142,Rosine,Lakshmanan,1965-01-29,F,Senior Engineer,1991-01-31,9999-01-01
+Marketing,222998,Leaf,Awdeh,1965-01-07,M,Senior Staff,1991-02-20,9999-01-01
+Production,240340,Mack,Staylopatis,1965-01-14,M,Senior Engineer,1991-04-02,9999-01-01
+Customer Service,40773,Shimshon,Aingworth,1965-01-09,M,Senior Staff,1991-04-13,9999-01-01
+Sales,434845,Takushi,Skogmar,1965-01-11,M,Senior Staff,1991-06-07,9999-01-01
+Production,64984,Eldridge,Eldridge,1965-01-06,F,Senior Engineer,1991-06-24,9999-01-01
+Sales,229547,Moni,Schach,1965-01-03,M,Senior Staff,1991-07-04,9999-01-01
+Development,404462,Anestis,Setlzner,1965-01-09,M,Senior Engineer,1991-07-13,9999-01-01
+Development,30465,Randi,Avouris,1965-01-28,M,Senior Engineer,1991-07-16,9999-01-01
+Customer Service,426795,Huican,Lunn,1965-01-07,M,Senior Staff,1991-07-23,9999-01-01
+Research,216054,Sahrah,Angiulli,1965-01-24,M,Senior Staff,1991-07-31,9999-01-01
+Sales,217272,Yuchang,Eldridge,1965-01-21,M,Senior Staff,1991-08-01,9999-01-01
+Production,430891,Khalil,Gien,1965-01-06,M,Senior Engineer,1991-08-06,9999-01-01
+Marketing,266206,Zsolt,Anily,1965-02-01,F,Senior Staff,1991-08-19,9999-01-01
+Production,13499,Kazuhiko,Sidou,1965-01-16,M,Technique Leader,1991-09-01,9999-01-01
+Sales,429231,Kazuyasu,Schmiedel,1965-01-09,F,Senior Staff,1991-09-07,9999-01-01
+Finance,482905,Aral,Hebden,1965-01-16,F,Senior Staff,1991-09-10,9999-01-01
+Development,205085,Moni,Kornyak,1965-01-23,M,Technique Leader,1991-09-26,9999-01-01
+Development,285396,Lena,Kohling,1965-01-27,M,Senior Engineer,1991-10-04,9999-01-01
+Human Resources,428195,Hatsukazu,Rosca,1965-01-11,M,Senior Staff,1991-10-13,9999-01-01
+Quality Management,407837,Fei,Erez,1965-02-01,M,Senior Engineer,1991-10-15,9999-01-01
+Customer Service,408654,Yongqiao,Cochrane,1965-01-09,M,Senior Staff,1991-10-27,9999-01-01
+Production,401333,Martins,Shokrollahi,1965-01-30,M,Senior Engineer,1991-11-04,9999-01-01
+Research,420694,Frazer,Barbanera,1965-01-19,M,Senior Staff,1991-11-04,9999-01-01
+Customer Service,80067,Kazuhisa,Weiland,1965-01-19,M,Senior Staff,1991-11-09,9999-01-01
+Development,233818,Kellie,Heydon,1965-01-01,M,Senior Engineer,1991-11-11,9999-01-01
+Development,431657,Visit,Thiran,1965-01-31,F,Senior Engineer,1991-11-14,9999-01-01
+Development,447613,Paris,Restivo,1965-01-15,M,Senior Engineer,1991-11-21,9999-01-01
+Development,470472,Zhiguo,Staudhammer,1965-02-01,F,Senior Engineer,1991-12-03,9999-01-01
+Research,427313,Utpal,Kemmerer,1965-01-31,M,Senior Staff,1991-12-04,9999-01-01
+Marketing,210752,Saniya,Stenning,1965-01-25,F,Senior Staff,1991-12-10,9999-01-01
+Research,87729,Yongmin,Roccetti,1965-01-24,M,Senior Staff,1991-12-10,9999-01-01
+Customer Service,99373,Xiaobin,Christianini,1965-01-13,M,Senior Staff,1991-12-25,9999-01-01
+Customer Service,458726,Shahaf,Kitai,1965-01-13,M,Senior Staff,1991-12-26,9999-01-01
+Customer Service,202414,Zvonko,Murthy,1965-01-13,F,Senior Staff,1992-01-07,9999-01-01
+Production,240236,True,Tischendorf,1965-01-24,M,Senior Engineer,1992-01-19,9999-01-01
+Development,218022,Mokhtar,Poupard,1965-01-26,M,Technique Leader,1992-02-02,9999-01-01
+Marketing,294527,Ashish,Candan,1965-01-04,F,Senior Staff,1992-02-02,9999-01-01
+Production,229220,Fabrizio,Lichtman,1965-01-21,F,Senior Engineer,1992-02-09,9999-01-01
+Production,264939,Bogdan,Bahi,1965-01-10,M,Senior Engineer,1992-02-10,9999-01-01
+Development,204471,Franziska,Maginnis,1965-01-27,F,Senior Engineer,1992-02-17,9999-01-01
+Development,53597,Jiafu,Marchegay,1965-01-30,M,Senior Engineer,1992-03-02,9999-01-01
+Customer Service,235096,Sverrir,Gyimothy,1965-01-21,M,Senior Staff,1992-03-20,9999-01-01
+Quality Management,52956,Khalil,Picci,1965-01-31,F,Senior Engineer,1992-03-20,9999-01-01
+Research,445152,Heping,Peac,1965-01-09,M,Senior Staff,1992-03-20,9999-01-01
+Human Resources,458134,Thanasis,Standera,1965-01-11,F,Senior Staff,1992-03-20,9999-01-01
+Development,89048,Otmar,Birjandi,1965-01-24,F,Senior Engineer,1992-03-23,9999-01-01
+Research,290467,Shaowen,Poulakidas,1965-01-29,M,Senior Staff,1992-04-14,9999-01-01
+Production,457489,Berna,Ranst,1965-01-24,F,Senior Engineer,1992-05-14,9999-01-01
+Development,411070,Otmar,Brandsma,1965-01-29,F,Senior Engineer,1992-05-27,9999-01-01
+Development,19803,Ziva,Kowalchuk,1965-01-30,F,Senior Engineer,1992-06-12,9999-01-01
+Development,109062,Jamaludin,Kandlur,1965-02-01,M,Senior Engineer,1992-06-19,9999-01-01
+Development,284687,Oksana,Redmiles,1965-01-15,F,Senior Engineer,1992-06-22,9999-01-01
+Research,266310,Zvonko,Serdy,1965-01-23,F,Senior Staff,1992-06-23,9999-01-01
+Production,427852,Adil,Kieras,1965-01-02,F,Senior Engineer,1992-07-20,9999-01-01
+Development,224335,Perry,Chachaty,1965-01-29,F,Senior Engineer,1992-07-22,9999-01-01
+Development,486958,Tonny,Kropf,1965-01-06,F,Senior Engineer,1992-07-29,9999-01-01
+Development,296303,Mariangiola,Heyers,1965-01-28,F,Technique Leader,1992-08-04,9999-01-01
+Development,416492,Kannan,Meriste,1965-01-15,M,Senior Engineer,1992-08-12,9999-01-01
+Production,96767,Arumugam,Vecchio,1965-01-07,F,Senior Engineer,1992-08-14,9999-01-01
+Marketing,425535,Alagu,Vieri,1965-01-18,F,Senior Staff,1992-08-22,9999-01-01
+Production,241667,Atilio,Olivero,1965-01-28,M,Senior Engineer,1992-09-04,9999-01-01
+Quality Management,247888,Abdelghani,Lagarias,1965-01-15,M,Senior Engineer,1992-09-06,9999-01-01
+Development,295236,Kauko,Fujisawa,1965-01-24,M,Senior Engineer,1992-09-12,9999-01-01
+Marketing,86422,Jaewon,Thummel,1965-02-01,F,Senior Staff,1992-09-14,9999-01-01
+Quality Management,402025,Shigehito,Duclos,1965-01-20,F,Senior Engineer,1992-09-19,9999-01-01
+Research,99654,Mahendra,Motley,1965-01-30,F,Senior Staff,1992-09-28,9999-01-01
+Production,446897,Takahiro,Dalton,1965-01-22,M,Technique Leader,1992-09-30,9999-01-01
+Quality Management,429087,Hugh,Senzako,1965-01-27,M,Technique Leader,1992-10-15,9999-01-01
+Sales,56428,Olivera,Hanabata,1965-01-27,M,Senior Staff,1992-11-09,9999-01-01
+Customer Service,432121,Alair,Straney,1965-01-06,F,Senior Staff,1992-11-14,9999-01-01
+Development,206966,Tzu,Sichman,1965-01-21,M,Senior Engineer,1992-11-16,9999-01-01
+Finance,426168,Kaijung,Mateescu,1965-01-10,M,Senior Staff,1992-11-17,9999-01-01
+Production,483825,Marek,Mitchem,1965-01-22,M,Senior Engineer,1992-11-20,9999-01-01
+Customer Service,41137,Bikash,Buchter,1965-01-20,F,Senior Staff,1992-11-22,9999-01-01
+Development,446424,DAIDA,Nooteboom,1965-01-16,F,Senior Engineer,1992-11-24,9999-01-01
+Sales,429381,Limsoon,Roohalamini,1965-01-06,M,Senior Staff,1992-11-25,9999-01-01
+Development,222311,Miyeon,Billingsley,1965-01-20,M,Senior Engineer,1992-12-05,9999-01-01
+Finance,287713,Aamod,Ranka,1965-01-23,M,Senior Staff,1992-12-07,9999-01-01
+Sales,455726,Qiwen,Kriebel,1965-01-08,M,Senior Staff,1992-12-12,9999-01-01
+Development,485579,Munehiro,Iwayama,1965-01-18,M,Senior Engineer,1992-12-15,9999-01-01
+Sales,418717,Arunachalam,Magliocco,1965-01-20,F,Senior Staff,1992-12-22,9999-01-01
+Production,280648,Heeju,Lorys,1965-01-04,M,Senior Engineer,1992-12-26,9999-01-01
+Development,54198,Shaowen,Segond,1965-01-01,M,Senior Engineer,1993-01-06,9999-01-01
+Sales,72918,Takahira,Szilard,1965-01-22,M,Senior Staff,1993-01-15,9999-01-01
+Development,293280,Moti,Steenbeek,1965-01-24,F,Senior Engineer,1993-01-21,9999-01-01
+Sales,415363,Conal,Shackell,1965-01-19,F,Senior Staff,1993-01-25,9999-01-01
+Research,35441,Chandrasekaran,Peek,1965-01-31,F,Senior Engineer,1993-02-06,9999-01-01
+Customer Service,37070,Jeong,Undy,1965-01-22,F,Senior Staff,1993-02-13,9999-01-01
+Marketing,435289,Feixiong,Schurmann,1965-01-04,M,Senior Staff,1993-02-14,9999-01-01
+Production,483675,Hausi,Kamber,1965-01-22,M,Senior Engineer,1993-02-15,9999-01-01
+Marketing,50670,Boguslaw,Snedden,1965-01-30,F,Senior Staff,1993-02-20,9999-01-01
+Finance,201709,Fan,Kakkad,1965-01-01,M,Senior Staff,1993-02-24,9999-01-01
+Finance,488984,Kendra,Junet,1965-01-18,M,Senior Staff,1993-02-28,9999-01-01
+Sales,432031,Adamantios,Matzat,1965-01-11,F,Senior Staff,1993-02-28,9999-01-01
+Production,240870,Francesca,Chorvat,1965-01-06,M,Senior Staff,1993-03-03,9999-01-01
+Finance,36521,Serif,Gladwell,1965-01-21,M,Senior Staff,1993-03-05,9999-01-01
+Production,67934,Aiman,Gargeya,1965-01-07,M,Senior Engineer,1993-03-07,9999-01-01
+Development,466509,Bezalel,Verhoeff,1965-01-26,F,Senior Engineer,1993-03-22,9999-01-01
+Production,211858,Domenico,Ratnaker,1965-01-08,F,Senior Engineer,1993-03-24,9999-01-01
+Human Resources,280070,Niteen,Ebeling,1965-01-24,F,Senior Staff,1993-03-29,9999-01-01
+Production,71243,Kinh,Buchter,1965-01-10,F,Senior Engineer,1993-03-29,9999-01-01
+Marketing,215843,Pramod,Loncour,1965-01-30,F,Senior Staff,1993-03-30,9999-01-01
+Production,38103,Masasuke,Babu,1965-01-12,M,Senior Engineer,1993-03-31,9999-01-01
+Sales,263926,Fusako,Schwartzbauer,1965-01-03,F,Senior Staff,1993-04-07,9999-01-01
+Marketing,236591,Insup,Reinhard,1965-01-11,M,Senior Staff,1993-04-08,9999-01-01
+Sales,423350,Heping,Monarch,1965-01-04,F,Senior Staff,1993-04-15,9999-01-01
+Development,64790,Shin,Piveteau,1965-01-29,M,Senior Engineer,1993-04-19,9999-01-01
+Research,449815,Fumitaka,Quittner,1965-01-27,M,Senior Staff,1993-04-20,9999-01-01
+Human Resources,484142,Perry,Cooman,1965-01-05,M,Senior Staff,1993-04-22,9999-01-01
+Development,26788,Zongyan,Dalphin,1965-01-25,M,Senior Engineer,1993-04-23,9999-01-01
+Production,89922,Alexius,Ibel,1965-01-26,M,Senior Engineer,1993-04-24,9999-01-01
+Production,465076,Tokuyasu,Ghelli,1965-01-19,M,Senior Engineer,1993-05-05,9999-01-01
+Development,272141,Tsutomu,Neiman,1965-01-13,F,Senior Staff,1993-05-05,9999-01-01
+Human Resources,463495,Alenka,Barriga,1965-01-28,F,Senior Staff,1993-05-06,9999-01-01
+Development,241254,Jagoda,Anguita,1965-01-15,F,Senior Engineer,1993-05-11,9999-01-01
+Development,40283,Sudhanshu,Boissier,1965-01-07,M,Senior Engineer,1993-05-11,9999-01-01
+Marketing,269728,Naftali,Kragelund,1965-01-12,M,Senior Staff,1993-05-15,9999-01-01
+Sales,424797,Theron,Itschner,1965-01-19,F,Senior Staff,1993-05-16,9999-01-01
+Human Resources,401154,Danae,Kragelund,1965-01-27,F,Senior Staff,1993-05-19,9999-01-01
+Sales,487008,Zhigen,Raney,1965-01-22,F,Senior Staff,1993-05-26,9999-01-01
+Sales,214215,Xiaoqiang,Cardazo,1965-01-25,M,Senior Staff,1993-05-28,9999-01-01
+Development,420086,Susuma,Kitsuregawa,1965-01-27,F,Senior Engineer,1993-05-28,9999-01-01
+Sales,84236,Eberhardt,Barriga,1965-01-18,F,Senior Staff,1993-06-03,9999-01-01
+Customer Service,498456,Geraldo,Gerteisen,1965-01-17,M,Senior Staff,1993-06-04,9999-01-01
+Development,75354,Shuky,Jakobus,1965-01-11,M,Senior Engineer,1993-06-16,9999-01-01
+Production,55799,Jianwen,Litzler,1965-01-23,F,Senior Engineer,1993-06-16,9999-01-01
+Sales,441197,Miquel,Legleitner,1965-01-18,F,Senior Staff,1993-06-28,9999-01-01
+Production,19236,Elzbieta,Morris,1965-01-24,F,Senior Engineer,1993-07-12,9999-01-01
+Customer Service,91172,Kazuhisa,Melter,1965-01-19,M,Senior Staff,1993-07-15,9999-01-01
+Human Resources,103196,Djenana,Albarhamtoshy,1965-01-16,M,Senior Staff,1993-07-16,9999-01-01
+Sales,282343,Xinglin,Haldar,1965-01-13,M,Senior Staff,1993-07-20,9999-01-01
+Human Resources,295254,Xuejun,Pfau,1965-01-15,M,Senior Staff,1993-07-24,9999-01-01
+Sales,263649,Mechthild,Zongker,1965-01-17,M,Senior Staff,1993-07-26,9999-01-01
+Marketing,270084,Ulises,Frolund,1965-01-11,M,Senior Staff,1993-07-26,9999-01-01
+Development,294857,Caolyn,Ozeri,1965-01-15,M,Senior Engineer,1993-07-29,9999-01-01
+Production,491596,Charmane,Pargas,1965-01-21,F,Senior Engineer,1993-07-29,9999-01-01
+Production,68633,Chinhyun,Rassart,1965-01-28,F,Senior Engineer,1993-07-29,9999-01-01
+Production,31207,Abdelwaheb,Dulin,1965-01-30,F,Senior Engineer,1993-08-05,9999-01-01
+Research,207401,Shuji,Barbanera,1965-01-04,M,Senior Staff,1993-08-09,9999-01-01
+Marketing,465409,Shahid,Varman,1965-01-30,M,Senior Staff,1993-08-27,9999-01-01
+Human Resources,278452,Sudhanshu,Toyoshima,1965-01-07,F,Senior Staff,1993-08-28,9999-01-01
+Human Resources,429703,Ung,Honglei,1965-01-06,F,Senior Staff,1993-09-02,9999-01-01
+Quality Management,246146,Zhongwei,Melski,1965-01-30,F,Senior Engineer,1993-09-03,9999-01-01
+Marketing,92846,Anyuan,Kropatsch,1965-01-11,M,Senior Staff,1993-09-05,9999-01-01
+Sales,290441,Gregory,Collavizza,1965-01-25,F,Senior Staff,1993-09-08,9999-01-01
+Quality Management,217320,Abdelwaheb,Denis,1965-01-10,F,Engineer,1993-09-10,9999-01-01
+Sales,274271,Prodip,Ritcey,1965-01-10,F,Senior Staff,1993-09-10,9999-01-01
+Research,294652,Hironobu,Brodie,1965-01-27,M,Senior Engineer,1993-09-17,9999-01-01
+Development,24205,Roddy,Rubsam,1965-01-25,F,Senior Engineer,1993-09-19,9999-01-01
+Finance,423214,Tsutomu,Tetzlaff,1965-01-31,F,Senior Staff,1993-09-23,9999-01-01
+Development,213384,Pranas,Narwekar,1965-01-04,F,Senior Engineer,1993-09-26,9999-01-01
+Sales,280420,Jahangir,Hofting,1965-01-31,M,Senior Staff,1993-09-28,9999-01-01
+Production,426958,Weijing,Viele,1965-01-19,M,Senior Engineer,1993-10-03,9999-01-01
+Finance,251166,Hinrich,Hooghiemstra,1965-01-22,M,Senior Staff,1993-10-05,9999-01-01
+Development,429249,Alassane,Wolniewicz,1965-01-28,M,Senior Engineer,1993-10-06,9999-01-01
+Quality Management,469529,Neven,Rikino,1965-01-07,M,Senior Engineer,1993-10-21,9999-01-01
+Customer Service,426824,Gopalakrishnan,Mawatari,1965-01-25,F,Senior Staff,1993-10-29,9999-01-01
+Research,289687,Fai,Maccarone,1965-01-31,F,Senior Staff,1993-10-30,9999-01-01
+Research,487505,Uno,Jayawardene,1965-01-20,F,Senior Staff,1993-11-01,9999-01-01
+Development,56682,Roded,Picco,1965-01-28,F,Assistant Engineer,1993-11-06,9999-01-01
+Development,400780,Poornachandra,Asser,1965-01-09,M,Engineer,1993-11-07,9999-01-01
+Development,202826,Kerhong,Matzke,1965-01-19,M,Senior Engineer,1993-11-14,9999-01-01
+Sales,48275,Sariel,Massonet,1965-01-29,F,Senior Staff,1993-11-19,9999-01-01
+Development,449984,Hinrich,Perin,1965-02-01,F,Senior Engineer,1993-11-20,9999-01-01
+Marketing,106710,Babette,Anandan,1965-01-31,M,Senior Staff,1993-11-22,9999-01-01
+Production,281859,Masanao,Papastamatiou,1965-01-17,F,Senior Engineer,1993-11-25,9999-01-01
+Marketing,416877,Gio,Orsini,1965-01-02,M,Senior Staff,1993-12-07,9999-01-01
+Development,30182,Leon,Potthoff,1965-01-26,M,Senior Engineer,1993-12-08,9999-01-01
+Production,453723,Arne,Kohling,1965-01-15,F,Senior Engineer,1993-12-13,9999-01-01
+Sales,71188,Pranjal,Schapiro,1965-01-02,M,Senior Staff,1993-12-14,9999-01-01
+Development,408953,Jolita,Claffy,1965-01-26,M,Senior Engineer,1993-12-24,9999-01-01
+Sales,428219,Ghassan,Androutsos,1965-01-21,F,Senior Staff,1993-12-25,9999-01-01
+Sales,91415,Jamaludin,Nilsson,1965-01-04,M,Senior Staff,1994-01-15,9999-01-01
+Production,62033,Heeju,Cappelli,1965-01-24,M,Senior Engineer,1994-01-15,9999-01-01
+Production,61377,Dannz,Ohori,1965-01-01,M,Senior Staff,1994-01-17,9999-01-01
+Sales,24553,Anwar,Passafiume,1965-01-12,M,Senior Staff,1994-01-30,9999-01-01
+Production,492677,Goetz,McAffer,1965-01-26,M,Senior Engineer,1994-02-04,9999-01-01
+Research,278239,Boaz,Bottner,1965-01-19,F,Staff,1994-02-06,9999-01-01
+Development,255657,Oldrich,Cyre,1965-01-20,F,Senior Engineer,1994-02-10,9999-01-01
+Development,250748,Kish,Turnbull,1965-01-27,F,Senior Engineer,1994-02-10,9999-01-01
+Sales,293752,Jungsoon,Bail,1965-01-04,F,Senior Staff,1994-02-18,9999-01-01
+Development,430631,Kersti,Marsiglia,1965-01-17,F,Engineer,1994-02-19,9999-01-01
+Development,37945,Suzette,Butterworth,1965-01-02,M,Senior Engineer,1994-02-19,9999-01-01
+Production,418309,Danel,Petereit,1965-01-24,F,Senior Engineer,1994-02-21,9999-01-01
+Development,415563,Mrinalini,Bierbaum,1965-01-21,F,Senior Engineer,1994-03-12,9999-01-01
+Customer Service,29265,Gilbert,Calkin,1965-01-14,M,Senior Staff,1994-03-21,9999-01-01
+Development,33722,Anwar,Collette,1965-01-15,M,Senior Engineer,1994-03-22,9999-01-01
+Human Resources,431576,Masamitsu,Back,1965-01-06,F,Senior Staff,1994-03-25,9999-01-01
+Human Resources,106242,Nevio,Thisen,1965-02-01,M,Senior Staff,1994-03-25,9999-01-01
+Research,244624,Boaz,Seuren,1965-01-31,F,Senior Staff,1994-03-27,9999-01-01
+Sales,470456,Reuven,Oehlmann,1965-01-13,F,Senior Staff,1994-03-29,9999-01-01
+Sales,10291,Dipayan,Seghrouchni,1965-01-23,M,Senior Staff,1994-03-30,9999-01-01
+Development,244820,Shigenori,Hertweck,1965-01-15,F,Senior Engineer,1994-04-13,9999-01-01
+Production,214995,Dinkar,Hoppenstand,1965-01-12,M,Engineer,1994-05-04,9999-01-01
+Production,39341,Mahmut,Lampe,1965-01-01,F,Senior Engineer,1994-05-11,9999-01-01
+Marketing,432956,Qunsheng,Birrer,1965-01-25,F,Senior Staff,1994-05-13,9999-01-01
+Sales,244873,Arunachalam,Oppitz,1965-01-04,M,Senior Staff,1994-05-20,9999-01-01
+Sales,299737,Patricio,Itzfeldt,1965-02-01,M,Senior Staff,1994-05-21,9999-01-01
+Production,465874,Herb,Picht,1965-01-12,F,Engineer,1994-05-31,9999-01-01
+Production,68608,Yucai,Seghrouchni,1965-01-26,M,Senior Engineer,1994-06-09,9999-01-01
+Development,293329,Fumiya,Griswold,1965-01-15,F,Senior Engineer,1994-06-12,9999-01-01
+Customer Service,420476,Mariangiola,Bolsens,1965-01-28,M,Senior Staff,1994-06-15,9999-01-01
+Production,276445,Atilio,Randi,1965-01-27,M,Senior Engineer,1994-07-02,9999-01-01
+Sales,69219,Shuky,Redmiles,1965-01-09,F,Senior Staff,1994-07-06,9999-01-01
+Production,454791,Xiaoqiu,Pietracaprina,1965-01-22,M,Senior Engineer,1994-07-09,9999-01-01
+Sales,456767,Tetsurou,Schreiter,1965-01-24,M,Senior Staff,1994-07-17,9999-01-01
+Quality Management,462493,Paloma,Gerlach,1965-01-12,M,Senior Engineer,1994-07-26,9999-01-01
+Development,432261,Arve,Bergere,1965-01-30,F,Senior Engineer,1994-07-28,9999-01-01
+Human Resources,201229,Alejandra,Khasidashvili,1965-01-03,M,Staff,1994-07-30,9999-01-01
+Customer Service,464303,Abdelghani,Nyrup,1965-01-22,F,Senior Staff,1994-08-02,9999-01-01
+Sales,265558,Susuma,Kleiser,1965-01-31,M,Senior Staff,1994-08-02,9999-01-01
+Human Resources,457070,Gay,Plavsic,1965-01-25,F,Senior Staff,1994-08-06,9999-01-01
+Development,284691,Theron,Ressouche,1965-01-04,F,Senior Engineer,1994-08-17,9999-01-01
+Sales,22415,Perla,Jumpertz,1965-01-20,M,Senior Staff,1994-08-24,9999-01-01
+Development,91182,Lucien,Schwartzburd,1965-01-04,F,Senior Engineer,1994-08-25,9999-01-01
+Research,441965,Claudi,Heijenga,1965-01-12,F,Senior Staff,1994-08-30,9999-01-01
+Sales,267667,Irena,Kaiserswerth,1965-01-05,F,Senior Staff,1994-09-05,9999-01-01
+Marketing,242104,Richara,Sudkamp,1965-01-05,F,Senior Staff,1994-09-05,9999-01-01
+Sales,16461,Remmert,Schahn,1965-01-14,M,Senior Staff,1994-09-06,9999-01-01
+Development,233690,Cedric,Riefers,1965-01-17,F,Engineer,1994-09-08,9999-01-01
+Sales,24394,Zhonghui,Conta,1965-01-04,M,Staff,1994-09-10,9999-01-01
+Quality Management,64487,Tsutomu,Rebaine,1965-01-27,M,Senior Engineer,1994-09-17,9999-01-01
+Human Resources,410028,Xiadong,McClurg,1965-01-11,M,Senior Staff,1994-09-17,9999-01-01
+Research,10476,Kokou,Iisaka,1965-01-01,M,Senior Staff,1994-09-20,9999-01-01
+Development,414662,Ipke,Schneeberger,1965-01-21,M,Senior Engineer,1994-09-20,9999-01-01
+Marketing,59869,Zsolt,Riefers,1965-02-01,M,Senior Staff,1994-09-25,9999-01-01
+Marketing,262439,Lorien,Lagarias,1965-01-30,F,Senior Staff,1994-10-10,9999-01-01
+Marketing,241292,Uri,Lampe,1965-01-29,M,Senior Staff,1994-10-17,9999-01-01
+Customer Service,491632,Gadiel,Perly,1965-01-01,M,Senior Staff,1994-10-20,9999-01-01
+Production,76189,Kolar,Hinsberger,1965-01-02,F,Senior Engineer,1994-10-20,9999-01-01
+Development,217387,Jianhao,Molenaar,1965-01-21,M,Senior Engineer,1994-10-22,9999-01-01
+Customer Service,259237,Palash,Gammage,1965-01-27,F,Senior Staff,1994-10-23,9999-01-01
+Sales,486918,Yagil,Remmers,1965-01-18,F,Senior Staff,1994-11-01,9999-01-01
+Production,467441,Margareta,Bondorf,1965-01-13,M,Senior Engineer,1994-11-07,9999-01-01
+Development,276472,Hideyuki,Flanders,1965-01-27,F,Senior Engineer,1994-11-10,9999-01-01
+Development,227354,Gio,Murtha,1965-01-12,F,Senior Engineer,1994-11-11,9999-01-01
+Production,458790,Ramya,Azadmanesh,1965-01-17,M,Senior Engineer,1994-11-19,9999-01-01
+Research,406714,Malu,Ossenbruggen,1965-02-01,F,Senior Staff,1994-11-21,9999-01-01
+Development,38043,Michaela,Randi,1965-01-05,M,Senior Engineer,1994-11-23,9999-01-01
+Finance,298577,Florina,Litecky,1965-01-11,M,Senior Staff,1994-12-02,9999-01-01
+Sales,80731,Shaowen,Eldridge,1965-01-25,M,Senior Staff,1994-12-05,9999-01-01
+Finance,437276,Dines,DeMori,1965-01-17,F,Senior Staff,1994-12-07,9999-01-01
+Development,288028,Kauko,Narwekar,1965-01-22,F,Senior Engineer,1994-12-16,9999-01-01
+Sales,424805,Jacqueline,Zallocco,1965-01-24,M,Senior Staff,1994-12-17,9999-01-01
+Sales,14907,Nakhoon,Luga,1965-01-14,M,Senior Staff,1994-12-18,9999-01-01
+Sales,421033,Garnik,Randt,1965-01-14,F,Senior Staff,1994-12-23,9999-01-01
+Production,292828,Ziya,Tokunaga,1965-01-10,F,Senior Engineer,1995-01-08,9999-01-01
+Production,44959,Volkmar,Uhrik,1965-01-21,F,Senior Engineer,1995-01-16,9999-01-01
+Customer Service,272285,Gully,Mitchem,1965-01-19,M,Senior Staff,1995-01-22,9999-01-01
+Human Resources,222206,Stein,Uludag,1965-01-21,M,Senior Staff,1995-01-30,9999-01-01
+Marketing,53874,Bodo,Schade,1965-01-23,M,Senior Staff,1995-02-14,9999-01-01
+Research,276027,Holgard,Stavenow,1965-01-04,F,Senior Staff,1995-02-28,9999-01-01
+Quality Management,430558,Xiong,Roisin,1965-01-07,F,Senior Engineer,1995-03-02,9999-01-01
+Customer Service,231671,Chandrasekaran,Pearson,1965-01-07,F,Staff,1995-04-14,9999-01-01
+Development,465711,Lakshmi,Frijda,1965-01-06,F,Senior Engineer,1995-04-21,9999-01-01
+Development,241567,Emran,Miara,1965-01-18,M,Senior Engineer,1995-05-02,9999-01-01
+Development,18021,Adil,Matzke,1965-01-07,M,Senior Engineer,1995-05-08,9999-01-01
+Production,465062,Stafford,Gist,1965-01-29,M,Senior Engineer,1995-05-08,9999-01-01
+Customer Service,496100,Pranjal,Reinhard,1965-01-07,F,Staff,1995-05-08,9999-01-01
+Customer Service,215629,Munehiro,Manders,1965-01-15,M,Senior Staff,1995-05-18,9999-01-01
+Sales,51036,Chriss,Fasbender,1965-01-29,F,Staff,1995-05-23,9999-01-01
+Development,219047,Aemilian,Kusalik,1965-01-30,M,Senior Engineer,1995-05-27,9999-01-01
+Sales,52386,Adas,Denti,1965-01-28,M,Senior Staff,1995-05-30,9999-01-01
+Human Resources,421384,Renny,Bednarek,1965-01-02,M,Senior Staff,1995-06-01,9999-01-01
+Production,38593,Huei,Orsini,1965-01-14,M,Senior Engineer,1995-06-04,9999-01-01
+Customer Service,427332,Feiyu,Hemaspaandra,1965-01-20,M,Staff,1995-06-04,9999-01-01
+Production,217551,Panayotis,Lukaszewicz,1965-01-02,F,Senior Engineer,1995-06-06,9999-01-01
+Production,463472,Jaber,Sethi,1965-01-11,M,Technique Leader,1995-06-06,9999-01-01
+Sales,425875,Jahangir,Kroft,1965-01-19,F,Senior Staff,1995-06-11,9999-01-01
+Marketing,20100,Utz,Heuter,1965-01-18,F,Senior Staff,1995-06-15,9999-01-01
+Human Resources,256856,Hongzue,Barbanera,1965-01-03,M,Senior Staff,1995-06-17,9999-01-01
+Development,200363,Kirk,Quaggetto,1965-01-10,F,Senior Engineer,1995-06-30,9999-01-01
+Customer Service,230126,Bezalel,Radivojevic,1965-01-31,M,Senior Staff,1995-07-03,9999-01-01
+Sales,233785,Baziley,Ballarin,1965-01-30,F,Senior Staff,1995-07-28,9999-01-01
+Customer Service,276563,Gift,Solares,1965-01-01,F,Senior Staff,1995-08-01,9999-01-01
+Quality Management,232209,Nitsan,Rouquie,1965-01-11,M,Senior Engineer,1995-08-02,9999-01-01
+Sales,69052,Shietung,Shrader,1965-01-26,M,Senior Staff,1995-08-05,9999-01-01
+Sales,400683,Kamakshi,Manders,1965-01-28,M,Staff,1995-08-05,9999-01-01
+Production,241728,Limsoon,Boudaillier,1965-01-30,F,Senior Engineer,1995-08-12,9999-01-01
+Customer Service,229098,Berry,Yurek,1965-01-08,F,Senior Staff,1995-08-16,9999-01-01
+Development,62245,Adel,Bressoud,1965-01-01,F,Engineer,1995-08-30,9999-01-01
+Marketing,257378,Pascal,Bernatsky,1965-01-06,F,Senior Staff,1995-09-04,9999-01-01
+Development,298339,King,Benzmuller,1965-01-11,M,Senior Engineer,1995-09-04,9999-01-01
+Production,226227,Herbert,Erva,1965-01-07,M,Senior Engineer,1995-09-06,9999-01-01
+Research,228248,Yuriy,Plump,1965-01-09,F,Senior Staff,1995-09-09,9999-01-01
+Research,86672,JoAnne,Anido,1965-01-15,F,Staff,1995-09-15,9999-01-01
+Production,445723,Gaurav,Roison,1965-01-31,F,Senior Staff,1995-10-22,9999-01-01
+Development,201801,Waiman,Genin,1965-01-12,M,Senior Engineer,1995-10-30,9999-01-01
+Development,209712,Nimmagadda,Baak,1965-01-17,F,Engineer,1995-10-30,9999-01-01
+Production,268191,LiMin,Teitelbaum,1965-01-07,M,Senior Engineer,1995-11-01,9999-01-01
+Development,98306,Ziya,Kadhim,1965-01-16,M,Senior Engineer,1995-11-02,9999-01-01
+Production,401278,Oguz,Schurmann,1965-01-16,M,Engineer,1995-11-11,9999-01-01
+Production,475258,Fumiyo,Feinberg,1965-01-10,M,Senior Staff,1995-11-22,9999-01-01
+Development,221126,Tesuya,dAstous,1965-01-23,F,Senior Engineer,1995-11-30,9999-01-01
+Development,208147,Manu,Rothenberg,1965-01-09,M,Senior Engineer,1995-12-07,9999-01-01
+Human Resources,257484,Shaowei,Nicolson,1965-01-01,M,Senior Staff,1995-12-07,9999-01-01
+Development,225788,Ipke,Kieras,1965-01-08,M,Engineer,1995-12-18,9999-01-01
+Development,279791,Chiranjit,Lyonns,1965-01-10,F,Engineer,1995-12-24,9999-01-01
+Production,41114,Petter,Thummel,1965-01-25,M,Technique Leader,1995-12-24,9999-01-01
+Sales,273858,Gunilla,Matzen,1965-01-13,M,Senior Staff,1995-12-28,9999-01-01
+Human Resources,224934,George,Miake,1965-01-05,M,Senior Staff,1996-01-02,9999-01-01
+Finance,257469,Anyuan,Hanratty,1965-01-22,F,Senior Staff,1996-01-06,9999-01-01
+Production,22926,Manibrata,Genther,1965-01-01,M,Senior Engineer,1996-01-15,9999-01-01
+Customer Service,249780,Nechama,Gaughan,1965-01-12,F,Senior Engineer,1996-01-16,9999-01-01
+Production,445226,Oscar,Baumann,1965-01-01,M,Senior Engineer,1996-01-22,9999-01-01
+Development,273286,Brigham,Asmuth,1965-01-26,M,Senior Engineer,1996-01-24,9999-01-01
+Quality Management,284954,Anneke,Hammerschmidt,1965-01-16,M,Engineer,1996-01-30,9999-01-01
+Finance,420877,Khosrow,Erez,1965-01-29,M,Senior Staff,1996-02-11,9999-01-01
+Development,402718,Jeanna,Rettelbach,1965-01-17,F,Senior Engineer,1996-02-14,9999-01-01
+Development,475938,Shigeaki,Lanteri,1965-01-14,M,Senior Engineer,1996-02-18,9999-01-01
+Sales,239244,Abdulla,Kitai,1965-01-13,M,Senior Staff,1996-02-20,9999-01-01
+Human Resources,402827,Weidon,Pollacia,1965-01-28,F,Senior Staff,1996-02-27,9999-01-01
+Production,92438,Aria,Kilgore,1965-01-04,M,Senior Engineer,1996-02-28,9999-01-01
+Development,40536,Harngdar,Bernardinello,1965-01-20,F,Senior Engineer,1996-02-29,9999-01-01
+Sales,238422,Vishv,Angelov,1965-01-10,M,Senior Staff,1996-03-08,9999-01-01
+Customer Service,439905,Kousuke,Levasseur,1965-01-03,F,Senior Staff,1996-03-15,9999-01-01
+Development,81995,Sreekrishna,Brender,1965-01-10,M,Senior Engineer,1996-03-21,9999-01-01
+Production,408019,Shridhar,Chleq,1965-01-01,F,Senior Engineer,1996-03-21,9999-01-01
+Finance,109278,Bangqing,Schach,1965-01-21,M,Senior Staff,1996-03-22,9999-01-01
+Sales,239067,Tadahiko,Pocchiola,1965-01-11,M,Staff,1996-04-02,9999-01-01
+Sales,65998,Mandell,Alameldin,1965-01-09,F,Senior Staff,1996-04-08,9999-01-01
+Marketing,79763,Sanjoy,Barreiro,1965-01-20,M,Senior Staff,1996-04-09,9999-01-01
+Customer Service,60091,Surveyors,Bade,1965-02-01,F,Senior Staff,1996-04-10,9999-01-01
+Sales,109953,Godehard,Chorvat,1965-01-26,F,Senior Staff,1996-04-10,9999-01-01
+Customer Service,217363,Horward,Marzano,1965-01-14,M,Staff,1996-04-11,9999-01-01
+Finance,413666,Remco,Duclos,1965-01-05,M,Senior Staff,1996-04-18,9999-01-01
+Marketing,86213,Kristine,Clemencon,1965-01-28,M,Senior Staff,1996-04-21,9999-01-01
+Development,416074,Alain,Lieberherr,1965-01-08,M,Senior Engineer,1996-05-10,9999-01-01
+Development,227476,Macha,Schnabel,1965-01-11,M,Senior Engineer,1996-05-11,9999-01-01
+Research,105356,Diederik,Matzov,1965-01-29,M,Senior Engineer,1996-05-12,9999-01-01
+Development,424984,Vasilis,Waleschkowski,1965-01-11,M,Engineer,1996-05-26,9999-01-01
+Sales,239748,Bilhanan,Dusink,1965-01-23,F,Senior Staff,1996-06-04,9999-01-01
+Production,40301,Spyrose,Felder,1965-01-20,M,Senior Engineer,1996-06-16,9999-01-01
+Sales,491478,Gill,Varman,1965-01-16,M,Senior Staff,1996-06-18,9999-01-01
+Marketing,243637,Marjo,Delgrange,1965-01-16,F,Senior Staff,1996-06-23,9999-01-01
+Sales,405015,Morris,Fargier,1965-01-02,M,Senior Staff,1996-06-29,9999-01-01
+Development,84922,Parke,Unno,1965-01-22,F,Engineer,1996-07-01,9999-01-01
+Quality Management,450817,DAIDA,Frolund,1965-01-10,M,Senior Engineer,1996-07-16,9999-01-01
+Development,404236,Zengping,Kakkar,1965-01-12,M,Senior Engineer,1996-07-22,9999-01-01
+Research,219417,Subhrajyoti,Denna,1965-01-29,M,Staff,1996-07-25,9999-01-01
+Customer Service,493031,Hironoby,Jakobus,1965-01-23,F,Senior Staff,1996-07-29,9999-01-01
+Marketing,466603,Yechezkel,Nourani,1965-01-23,F,Senior Staff,1996-07-31,9999-01-01
+Sales,38168,Fumiko,Deverell,1965-01-14,M,Senior Staff,1996-08-14,9999-01-01
+Production,416892,Shooichi,Vandervoorde,1965-01-03,M,Engineer,1996-08-16,9999-01-01
+Sales,203720,Sasan,Thimonier,1965-01-30,M,Senior Staff,1996-08-21,9999-01-01
+Quality Management,93220,Richara,Walston,1965-01-11,M,Senior Engineer,1996-08-27,9999-01-01
+Quality Management,221369,Abdulah,Pocchiola,1965-01-28,F,Engineer,1996-08-28,9999-01-01
+Production,60559,Jeanna,Stemann,1965-01-19,M,Senior Engineer,1996-08-29,9999-01-01
+Customer Service,52599,Augustine,Mungall,1965-01-25,F,Senior Engineer,1996-08-30,9999-01-01
+Sales,423204,Uma,Stranks,1965-01-08,M,Senior Staff,1996-09-12,9999-01-01
+Sales,55857,Adin,Scallan,1965-01-18,M,Senior Staff,1996-09-14,9999-01-01
+Development,45162,Dulce,Speel,1965-01-11,F,Senior Engineer,1996-10-18,9999-01-01
+Quality Management,92454,Visit,McFarlan,1965-01-24,M,Senior Engineer,1996-10-21,9999-01-01
+Marketing,79310,Jeong,Cunliffe,1965-01-24,F,Senior Staff,1996-10-27,9999-01-01
+Production,214427,Peer,Molberg,1965-01-29,F,Engineer,1996-11-17,9999-01-01
+Marketing,31568,Mark,Lalonde,1965-01-10,M,Staff,1996-11-24,9999-01-01
+Development,427571,Torsten,Ranta,1965-01-20,M,Senior Engineer,1996-12-10,9999-01-01
+Development,485489,Keiichiro,Armand,1965-01-01,F,Senior Engineer,1996-12-13,9999-01-01
+Research,22451,Jasminko,Bresenham,1965-01-27,M,Senior Staff,1996-12-15,9999-01-01
+Production,447982,Shiv,Baezner,1965-01-25,F,Senior Engineer,1996-12-16,9999-01-01
+Human Resources,42778,Shuji,Remmers,1965-01-19,F,Senior Staff,1996-12-17,9999-01-01
+Production,457776,Florian,Siepmann,1965-01-15,F,Senior Engineer,1996-12-20,9999-01-01
+Sales,238252,Uno,Suppi,1965-01-09,M,Staff,1996-12-27,9999-01-01
+Sales,440642,Snehasis,Kalsbeek,1965-01-14,M,Senior Staff,1997-01-05,9999-01-01
+Sales,46328,Wuxu,Trogemann,1965-01-05,F,Senior Staff,1997-01-27,9999-01-01
+Customer Service,90518,Fumiko,Chepyzhov,1965-01-24,M,Senior Staff,1997-01-27,9999-01-01
+Research,274369,Ranga,Waymire,1965-01-29,F,Senior Staff,1997-01-27,9999-01-01
+Development,241872,Bluma,Fetvedt,1965-01-11,F,Senior Staff,1997-02-02,9999-01-01
+Production,214789,Arfst,Chepyzhov,1965-01-28,F,Senior Engineer,1997-02-06,9999-01-01
+Finance,448994,Haldun,Syang,1965-01-12,M,Staff,1997-02-11,9999-01-01
+Customer Service,212154,Sailaja,Holburn,1965-01-17,M,Senior Staff,1997-03-03,9999-01-01
+Development,35798,Ulf,Oberman,1965-01-29,F,Senior Engineer,1997-03-15,9999-01-01
+Production,52970,Lobel,Werthner,1965-01-22,M,Senior Engineer,1997-03-17,9999-01-01
+Sales,101902,Mantis,Millington,1965-01-14,M,Senior Staff,1997-03-17,9999-01-01
+Sales,444099,Kousuke,Worfolk,1965-01-28,M,Senior Staff,1997-03-22,9999-01-01
+Development,451272,Jacopo,Krohm,1965-01-02,M,Senior Engineer,1997-04-23,9999-01-01
+Development,485577,Rafael,Menhoudj,1965-01-30,F,Senior Engineer,1997-04-27,9999-01-01
+Production,89680,Aiman,Mawatari,1965-01-27,F,Senior Engineer,1997-05-01,9999-01-01
+Research,239803,Oscal,Ernst,1965-01-30,M,Senior Staff,1997-05-19,9999-01-01
+Development,247612,Chiranjit,Constantine,1965-01-04,F,Engineer,1997-05-25,9999-01-01
+Production,35044,Jiang,Waschkowski,1965-01-04,F,Senior Engineer,1997-05-27,9999-01-01
+Development,203495,Zongyan,Gips,1965-01-02,M,Technique Leader,1997-05-31,9999-01-01
+Production,249433,Ayonca,Matzov,1965-01-16,F,Senior Engineer,1997-06-03,9999-01-01
+Marketing,403621,Deborah,Kaminger,1965-01-07,M,Senior Staff,1997-06-04,9999-01-01
+Sales,451253,Jaihie,Ozeri,1965-01-15,F,Senior Staff,1997-06-20,9999-01-01
+Production,287583,Jovan,Hockney,1965-01-18,M,Senior Engineer,1997-06-21,9999-01-01
+Development,94944,Heping,Matheson,1965-01-13,M,Senior Engineer,1997-06-24,9999-01-01
+Sales,488142,Denis,Narlikar,1965-01-05,M,Senior Staff,1997-06-30,9999-01-01
+Quality Management,447877,Make,Heuser,1965-01-13,M,Senior Engineer,1997-07-02,9999-01-01
+Sales,208330,Shen,Flanders,1965-01-11,F,Senior Staff,1997-07-03,9999-01-01
+Development,492639,Sanjoy,Porenta,1965-01-30,M,Engineer,1997-07-10,9999-01-01
+Production,66382,Domenico,Candan,1965-01-04,F,Engineer,1997-07-13,9999-01-01
+Production,493744,Leni,Kropatsch,1965-01-14,M,Senior Engineer,1997-07-17,9999-01-01
+Sales,498635,Florian,Pezzoli,1965-01-09,F,Senior Staff,1997-07-22,9999-01-01
+Development,63706,Sedat,Itzigehl,1965-01-26,F,Engineer,1997-07-31,9999-01-01
+Quality Management,85702,Udi,Merks,1965-01-04,M,Engineer,1997-08-15,9999-01-01
+Development,414091,Wuxu,Kuhnemann,1965-01-17,M,Engineer,1997-08-19,9999-01-01
+Development,95286,Kristin,Guerreiro,1965-01-18,F,Senior Engineer,1997-08-23,9999-01-01
+Production,265875,Fan,Marsiglia,1965-01-20,M,Senior Engineer,1997-09-03,9999-01-01
+Development,474763,Mayuko,Clouatre,1965-01-07,F,Engineer,1997-09-04,9999-01-01
+Development,457832,Jackson,Zielinski,1965-02-01,F,Senior Engineer,1997-09-12,9999-01-01
+Development,416660,Nathalie,Luke,1965-01-28,M,Senior Engineer,1997-09-15,9999-01-01
+Marketing,32347,Terresa,Peres,1965-01-08,M,Senior Staff,1997-09-15,9999-01-01
+Research,259718,Stepehn,Bouloucos,1965-01-24,M,Senior Staff,1997-09-16,9999-01-01
+Customer Service,488788,Wuxu,Garigliano,1965-01-12,M,Senior Staff,1997-09-21,9999-01-01
+Production,90614,Yonghoan,Trogemann,1965-01-29,M,Engineer,1997-09-23,9999-01-01
+Marketing,91648,Dmitry,Msuda,1965-01-29,F,Senior Staff,1997-10-22,9999-01-01
+Finance,471552,Basem,Lortz,1965-01-22,F,Staff,1997-10-25,9999-01-01
+Development,424569,Danco,Luff,1965-01-14,F,Engineer,1997-10-30,9999-01-01
+Development,268043,Narain,Mikschl,1965-01-28,M,Engineer,1997-11-02,9999-01-01
+Customer Service,414027,Tadanori,Msuda,1965-01-31,M,Senior Engineer,1997-11-06,9999-01-01
+Development,452365,Fei,Gadepally,1965-01-05,M,Engineer,1997-11-13,9999-01-01
+Sales,34077,Angel,Sichman,1965-01-08,F,Senior Staff,1997-11-16,9999-01-01
+Marketing,32714,Radoslaw,Maliniak,1965-01-16,M,Staff,1997-11-17,9999-01-01
+Human Resources,424930,Xuejun,Reeker,1965-01-19,F,Senior Staff,1997-11-18,9999-01-01
+Production,261737,Mark,Lindqvist,1965-01-23,M,Senior Engineer,1997-11-22,9999-01-01
+Development,94761,Hitofumi,Zaccaria,1965-01-27,M,Senior Engineer,1997-11-22,9999-01-01
+Human Resources,244605,Masoud,Suwa,1965-01-22,M,Senior Staff,1997-11-25,9999-01-01
+Sales,246764,Shuzo,Czaja,1965-01-04,M,Staff,1997-11-29,9999-01-01
+Production,207021,Jacqueline,Akaboshi,1965-01-20,M,Engineer,1997-12-06,9999-01-01
+Development,28193,Xinglin,Mitsuhashi,1965-01-29,M,Senior Engineer,1997-12-14,9999-01-01
+Development,216502,Xiaocheng,Suermann,1965-01-26,F,Engineer,1997-12-15,9999-01-01
+Production,483838,Sham,Kavanagh,1965-01-03,F,Assistant Engineer,1997-12-18,9999-01-01
+Sales,262328,Mayuko,Vural,1965-01-03,F,Staff,1997-12-24,9999-01-01
+Development,231798,Goetz,Alvarado,1965-01-28,M,Senior Engineer,1997-12-25,9999-01-01
+Production,53924,Arnould,Gaughan,1965-01-27,F,Senior Engineer,1998-01-23,9999-01-01
+Human Resources,209443,Krassimir,Garnier,1965-01-19,M,Senior Staff,1998-01-26,9999-01-01
+Development,288893,Bedrich,Rosenbaum,1965-01-30,M,Senior Engineer,1998-01-27,9999-01-01
+Quality Management,82919,Shigeu,Claffy,1965-01-05,M,Engineer,1998-02-03,9999-01-01
+Sales,270716,Shunichi,Baer,1965-01-19,M,Staff,1998-02-04,9999-01-01
+Sales,253707,Insup,Hainaut,1965-01-05,M,Staff,1998-02-11,9999-01-01
+Production,275994,Uma,Prampolini,1965-01-29,F,Senior Engineer,1998-02-21,9999-01-01
+Sales,27686,Manu,Rosiles,1965-01-28,M,Senior Staff,1998-03-03,9999-01-01
+Research,469527,Halsur,Ibel,1965-01-24,F,Staff,1998-03-05,9999-01-01
+Quality Management,459685,Hirochika,Goldhammer,1965-02-01,M,Engineer,1998-03-12,9999-01-01
+Development,404788,Basem,Beausoleil,1965-01-16,M,Engineer,1998-03-16,9999-01-01
+Finance,427776,Jaques,Navazio,1965-01-25,F,Senior Staff,1998-04-03,9999-01-01
+Research,66530,Dung,Leaver,1965-01-29,M,Staff,1998-04-04,9999-01-01
+Research,71334,Cathie,Peck,1965-01-15,M,Senior Engineer,1998-04-12,9999-01-01
+Finance,93549,Arie,Coullard,1965-02-01,F,Senior Staff,1998-04-15,9999-01-01
+Human Resources,246902,Shih,Shanbhogue,1965-01-27,M,Staff,1998-04-19,9999-01-01
+Human Resources,18617,Surveyors,Crouzet,1965-01-21,M,Senior Staff,1998-04-24,9999-01-01
+Production,222952,Gopalakrishnan,Suermann,1965-01-28,M,Senior Engineer,1998-04-30,9999-01-01
+Sales,419099,Heon,Broomell,1965-01-15,M,Staff,1998-05-06,9999-01-01
+Marketing,435181,Kazuhide,Fiutem,1965-01-16,M,Senior Staff,1998-05-10,9999-01-01
+Customer Service,260249,Vugranam,Beausoleil,1965-01-22,F,Staff,1998-05-14,9999-01-01
+Sales,234195,Luerbio,Terkki,1965-01-07,M,Senior Staff,1998-05-14,9999-01-01
+Development,81105,Jaewon,Boissier,1965-01-14,M,Senior Engineer,1998-05-24,9999-01-01
+Production,450934,Chanjung,Raoux,1965-01-23,M,Senior Engineer,1998-05-25,9999-01-01
+Human Resources,276186,Sajjad,Vecchi,1965-01-30,M,Senior Staff,1998-06-02,9999-01-01
+Development,84451,Shiv,Aumann,1965-01-20,M,Senior Engineer,1998-06-14,9999-01-01
+Finance,15058,Bouchung,Bugrara,1965-01-30,M,Senior Staff,1998-06-18,9999-01-01
+Human Resources,467176,Przemyslawa,Borovoy,1965-01-05,F,Senior Staff,1998-06-18,9999-01-01
+Quality Management,200312,Akemi,Fujisaki,1965-01-27,F,Senior Engineer,1998-06-25,9999-01-01
+Production,29418,Valery,Mersereau,1965-01-22,M,Assistant Engineer,1998-07-01,9999-01-01
+Development,291612,Siamak,Gomatam,1965-01-30,M,Engineer,1998-07-08,9999-01-01
+Development,90077,Vivian,Guerreiro,1965-01-24,M,Engineer,1998-07-08,9999-01-01
+Marketing,419953,Ung,Orlowski,1965-01-29,M,Senior Staff,1998-07-22,9999-01-01
+Sales,39952,Otmar,Sudbeck,1965-01-02,M,Staff,1998-07-22,9999-01-01
+Development,490568,Zita,Reistad,1965-01-01,M,Senior Engineer,1998-07-23,9999-01-01
+Development,292515,Bernd,Thummel,1965-01-04,M,Engineer,1998-08-03,9999-01-01
+Finance,217800,Shay,Servieres,1965-02-01,F,Senior Staff,1998-08-06,9999-01-01
+Sales,236964,Adel,Foote,1965-01-17,M,Staff,1998-08-19,9999-01-01
+Sales,52770,Shugo,Yurek,1965-01-31,M,Senior Staff,1998-08-28,9999-01-01
+Production,415187,Juyoung,Peltason,1965-01-03,M,Assistant Engineer,1998-09-01,9999-01-01
+Production,499260,Danae,Honglei,1965-01-11,M,Engineer,1998-09-14,9999-01-01
+Human Resources,475538,Christophe,Leaver,1965-01-15,F,Staff,1998-10-31,9999-01-01
+Customer Service,240285,Kolar,Greenaway,1965-01-23,M,Staff,1998-11-14,9999-01-01
+Sales,245664,Manohar,Kilgore,1965-01-18,M,Staff,1998-11-17,9999-01-01
+Development,288665,Horward,Khasidashvili,1965-01-31,M,Senior Engineer,1998-11-19,9999-01-01
+Customer Service,280291,Lenore,Badache,1965-01-26,F,Staff,1998-11-24,9999-01-01
+Production,56209,Remzi,Douceur,1965-01-19,M,Senior Engineer,1998-12-01,9999-01-01
+Human Resources,251341,Divier,Kumaresan,1965-01-11,M,Senior Staff,1998-12-05,9999-01-01
+Development,69936,Lalit,Unni,1965-01-23,F,Assistant Engineer,1998-12-06,9999-01-01
+Marketing,205174,Leszek,Spinelli,1965-01-05,M,Staff,1998-12-10,9999-01-01
+Production,264030,Zdislav,Solares,1965-01-15,M,Engineer,1998-12-14,9999-01-01
+Production,432257,Kwangjo,Hiltgen,1965-01-20,F,Engineer,1998-12-22,9999-01-01
+Production,17206,Berry,DeMori,1965-01-02,M,Senior Engineer,1998-12-27,9999-01-01
+Human Resources,43733,Huei,Boguraev,1965-01-26,M,Senior Staff,1998-12-31,9999-01-01
+Sales,53278,Premsyl,Lortz,1965-01-31,M,Senior Staff,1999-02-01,9999-01-01
+Marketing,288560,Yifei,Birjandi,1965-01-16,M,Senior Staff,1999-02-07,9999-01-01
+Development,287984,Troy,Kobuchi,1965-01-09,M,Senior Engineer,1999-02-12,9999-01-01
+Production,469399,Hongzhu,Ruemmler,1965-01-25,F,Engineer,1999-02-14,9999-01-01
+Production,253838,Stafford,Terlouw,1965-01-28,M,Assistant Engineer,1999-02-21,9999-01-01
+Production,243077,Kazunori,Perz,1965-02-01,F,Senior Engineer,1999-02-25,9999-01-01
+Quality Management,435791,Hercules,Speer,1965-01-07,M,Senior Engineer,1999-03-07,9999-01-01
+Sales,230865,Takushi,Brattka,1965-01-02,M,Staff,1999-03-09,9999-01-01
+Sales,426153,Shahaf,Luce,1965-01-16,M,Senior Staff,1999-04-06,9999-01-01
+Research,413098,Hsiangchu,Taubenfeld,1965-01-26,M,Senior Staff,1999-04-17,9999-01-01
+Development,30154,Mayuko,Skafidas,1965-01-26,M,Technique Leader,1999-04-19,9999-01-01
+Development,458383,Mabhin,Foote,1965-01-06,M,Engineer,1999-04-23,9999-01-01
+Human Resources,263012,Hideo,Buchter,1965-01-09,F,Staff,1999-05-01,9999-01-01
+Research,422146,Kenton,Miara,1965-01-08,F,Engineer,1999-05-14,9999-01-01
+Human Resources,487988,Ekawit,Schaft,1965-01-05,M,Senior Staff,1999-05-20,9999-01-01
+Development,66807,Aiman,Rosaz,1965-01-21,F,Senior Engineer,1999-05-22,9999-01-01
+Sales,297232,Lokesh,Saoudi,1965-01-16,F,Senior Staff,1999-05-25,9999-01-01
+Finance,489756,Kersti,Miculan,1965-01-01,F,Senior Staff,1999-06-10,9999-01-01
+Customer Service,99057,Shugo,Reeken,1965-01-30,M,Staff,1999-06-21,9999-01-01
+Development,18810,Taiji,Jarecki,1965-01-09,M,Senior Engineer,1999-06-27,9999-01-01
+Human Resources,14104,Sudhanshu,Demian,1965-01-03,M,Senior Staff,1999-07-23,9999-01-01
+Development,103316,Susanne,Peternell,1965-01-03,M,Senior Engineer,1999-07-27,9999-01-01
+Development,262210,Chinho,Bottner,1965-01-22,M,Senior Engineer,1999-07-30,9999-01-01
+Development,281848,Parke,Staylopatis,1965-01-29,M,Senior Engineer,1999-07-31,9999-01-01
+Development,107737,Fabrizio,Chleq,1965-01-23,M,Senior Engineer,1999-07-31,9999-01-01
+Development,256881,Ioana,Jakobus,1965-01-03,M,Senior Engineer,1999-08-10,9999-01-01
+Development,499495,Baoqiu,Kakkar,1965-01-14,M,Engineer,1999-08-30,9999-01-01
+Production,232697,Barry,Ramsak,1965-01-23,F,Senior Engineer,1999-09-07,9999-01-01
+Development,291669,Faiza,Bach,1965-01-04,F,Engineer,1999-09-13,9999-01-01
+Development,72190,Sajjad,Waeselynck,1965-01-19,F,Engineer,1999-09-13,9999-01-01
+Sales,287323,Steve,Dengi,1965-02-01,M,Staff,1999-09-15,9999-01-01
+Production,233759,Zissis,Lodder,1965-01-14,F,Engineer,1999-09-25,9999-01-01
+Sales,64828,Krister,Pappas,1965-01-27,F,Staff,1999-09-30,9999-01-01
+Sales,206748,Yucai,Fabrizio,1965-01-07,F,Staff,1999-10-06,9999-01-01
+Production,21181,Jianhui,Cangellaris,1965-01-21,F,Engineer,1999-10-06,9999-01-01
+Research,108198,Randi,Samarati,1965-01-24,F,Senior Staff,1999-10-21,9999-01-01
+Finance,56415,Sigeru,Nivat,1965-01-30,M,Senior Staff,1999-10-24,9999-01-01
+Marketing,482755,Jouni,Conia,1965-01-03,M,Senior Staff,1999-10-31,9999-01-01
+Production,79043,Katsuo,Hockney,1965-01-24,M,Technique Leader,1999-11-07,9999-01-01
+Marketing,22455,Barry,Unno,1965-01-06,F,Senior Staff,1999-11-16,9999-01-01
+Development,459172,Val,Rissanen,1965-01-19,F,Engineer,1999-11-20,9999-01-01
+Development,488482,Kensyu,Tsunoo,1965-01-30,F,Engineer,1999-12-05,9999-01-01
+Development,275158,Satyanarayana,Brandsma,1965-01-07,F,Engineer,1999-12-08,9999-01-01
+Research,447376,Kirk,Zongker,1965-01-07,F,Staff,1999-12-10,9999-01-01
+Production,496970,Giordano,Maquelin,1965-01-03,F,Senior Engineer,1999-12-31,9999-01-01
+Sales,437395,Sumant,Thambidurai,1965-01-21,M,Senior Staff,2000-01-02,9999-01-01
+Development,287609,Sailaja,Negoita,1965-01-06,F,Senior Engineer,2000-01-19,9999-01-01
+Development,217080,Masami,Puoti,1965-01-12,M,Senior Engineer,2000-01-21,9999-01-01
+Development,88411,Lena,Cannane,1965-01-31,F,Engineer,2000-01-28,9999-01-01
+Development,92920,Huei,Hutter,1965-01-20,M,Senior Engineer,2000-01-29,9999-01-01
+Development,203599,Ewing,DiGiano,1965-01-21,M,Technique Leader,2000-02-01,9999-01-01
+Production,221435,Djenana,Marrevee,1965-01-06,M,Senior Engineer,2000-02-06,9999-01-01
+Production,454994,Mohan,Picht,1965-01-01,M,Senior Engineer,2000-02-24,9999-01-01
+Sales,10095,Hilari,Morton,1965-01-03,M,Senior Staff,2000-03-09,9999-01-01
+Production,34452,Naftaly,Foong,1965-01-08,M,Senior Engineer,2000-05-09,9999-01-01
+Sales,30938,Yakkov,Samarati,1965-01-06,F,Senior Staff,2000-05-22,9999-01-01
+Development,434936,Sahrah,Rosis,1965-01-15,F,Senior Engineer,2000-06-23,9999-01-01
+Quality Management,36982,Kotesh,Rajala,1965-01-22,M,Senior Engineer,2000-06-23,9999-01-01
+Production,482885,Shaunak,Brizzi,1965-01-29,M,Senior Engineer,2000-09-01,9999-01-01
+Customer Service,438264,Rasikan,Barreiro,1965-01-19,M,Senior Staff,2000-09-26,9999-01-01
+Development,66702,Deniz,Thibadeau,1965-02-01,F,Senior Engineer,2000-09-26,9999-01-01
+Human Resources,466745,Boalin,Birsak,1965-01-26,M,Senior Staff,2000-10-15,9999-01-01
+Production,479407,Randi,Tomescu,1965-01-18,M,Senior Engineer,2000-11-25,9999-01-01
+Sales,40269,Toshiki,Ghazalie,1965-01-10,F,Senior Staff,2000-12-04,9999-01-01
+Human Resources,489755,Matk,Chorvat,1965-01-14,M,Senior Staff,2000-12-29,9999-01-01
+Production,229981,Jamaludin,Fordan,1965-01-19,M,Senior Engineer,2001-02-05,9999-01-01
+Marketing,220582,Poornachandra,Zielinski,1965-01-08,M,Senior Staff,2001-02-12,9999-01-01
+Customer Service,77303,Xinglin,Birge,1965-01-18,F,Senior Staff,2001-03-05,9999-01-01
+Marketing,107792,Shahab,Crooks,1965-01-13,M,Senior Staff,2001-03-18,9999-01-01
+Research,206836,Guadalupe,Pfau,1965-01-12,M,Senior Staff,2001-03-22,9999-01-01
+Production,265521,Kensei,Salverda,1965-01-04,M,Senior Engineer,2001-05-25,9999-01-01
+Sales,447232,Aleksander,Schaaf,1965-01-22,M,Senior Staff,2001-05-25,9999-01-01
+Marketing,420732,Willard,Morrin,1965-01-06,M,Senior Staff,2001-05-27,9999-01-01
+Development,61253,Cheong,Uhrik,1965-01-09,M,Senior Engineer,2001-06-04,9999-01-01
+Sales,423327,Constantijn,Lichtman,1965-01-27,F,Senior Staff,2001-06-26,9999-01-01
+Production,490557,Luise,Vigier,1965-01-27,M,Senior Engineer,2001-07-01,9999-01-01
+Customer Service,260408,Sasan,Brookner,1965-01-19,M,Senior Staff,2001-09-03,9999-01-01
+Sales,83544,Leaf,Baak,1965-01-18,M,Senior Staff,2001-09-05,9999-01-01
+Production,91229,Yahiko,Hebden,1965-01-01,M,Senior Engineer,2001-10-03,9999-01-01
+Development,109211,Gor,Delgrande,1965-01-11,M,Senior Engineer,2001-11-06,9999-01-01
+Sales,243576,Abdulah,Lodder,1965-01-04,M,Senior Staff,2001-11-10,9999-01-01
+Production,93278,Magdalena,Penn,1965-02-01,F,Senior Engineer,2002-01-04,9999-01-01
+Sales,265794,Miquel,Halloran,1965-01-15,M,Senior Staff,2002-01-14,9999-01-01
+Production,498955,Nechama,Kandlur,1965-01-13,F,Senior Engineer,2002-01-16,9999-01-01
+Production,63294,Tetsushi,Tanemo,1965-01-23,M,Senior Engineer,2002-03-01,9999-01-01
+Quality Management,252185,Chaosheng,Conta,1965-01-01,F,Engineer,2002-04-14,9999-01-01
+Sales,284431,Pintsang,Fujisawa,1965-01-25,M,Senior Staff,2002-04-16,9999-01-01
+Development,18424,Filipp,Rousseau,1965-01-19,M,Senior Engineer,2002-06-07,9999-01-01
+Production,35642,Ashish,Talmon,1965-01-30,F,Senior Engineer,2002-06-13,9999-01-01
+Development,214866,Gopalakrishnan,Angel,1965-02-01,F,Senior Engineer,2002-07-05,9999-01-01
+Production,452137,Subir,Miake,1965-01-15,M,Senior Engineer,2002-07-11,9999-01-01

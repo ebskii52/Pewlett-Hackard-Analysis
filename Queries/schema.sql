@@ -55,9 +55,6 @@ CREATE TABLE titles (
 	);
 
 
-
-
-		
 		
 DROP TABLE dept_emp CASCADE;
 DROP TABLE dept_manager CASCADE;
@@ -283,56 +280,4 @@ ON (d.dept_no = de.dept_no)
 WHERE dept_name = 'Sales';
 
 
-
--- Challenge
--- Number of [titles] Retiring
-SELECT  emp.emp_no,
-		emp.first_name,
-		emp.last_name,
-		tl.title,
-		emp.birth_date,
-		tl.from_date,
-		tl.to_date,
-		s.salary
-INTO Title_Retiring
-from employees as emp
-INNER JOIN titles  as tl
-ON tl.emp_no = emp.emp_no
-INNER JOIN salaries as s
-ON (s.emp_no = emp.emp_no)
-WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
-AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
-
-DROP TABLE Title_Retiring CASCADE;
-
-SELECT * FROM Title_Retiring
-
--- Only the Most Recent Titles
-
-with titles_unique as 
-(
-SELECT tmp.emp_no, tmp.first_name, tmp.last_name, tmp.title, tmp.birth_date, tmp.from_date, tmp.to_date FROM
-  (SELECT emp_no, first_name, last_name, title, birth_date, from_date, to_date,
-     ROW_NUMBER() OVER (PARTITION BY (first_name, last_name) ORDER BY from_date DESC) as rn FROM Title_Retiring
-  ) as tmp WHERE rn = 1
-)
-SELECT emp_no, first_name, last_name, birth_date, title, from_date, to_date INTO Unique_Titles From  titles_unique ;
-
-DROP TABLE Unique_Titles CASCADE;
-
-SELECT * FROM Unique_Titles
-
---In descending order (by date), list the frequency count of employee titles (i.e., how many employees share the same title)
-SELECT title, count(title) AS Total_Titles FROM Unique_Titles
-GROUP BY title
-
- --- Who’s Ready for a Mentor?
-SELECT UT.emp_no,UT.first_name, UT.last_name, UT.birth_date, UT.title, UT.from_date, UT.to_date
---INTO mentor_info
-FROM Unique_Titles as UT
-WHERE (birth_date BETWEEN '1954-01-01' AND '1954-12-31');
-AND (to_date BETWEEN '9999-01-01' AND '9999-01-01');
-
-SELECT * FROM dept_emp
- 
 

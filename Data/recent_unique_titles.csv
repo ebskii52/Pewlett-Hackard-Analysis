@@ -1,0 +1,875 @@
+dept_no,emp_no,first_name,last_name,birth_date,gender,title,from_date,to_date
+d002,287713,Aamod,Ranka,1965-01-23,M,Senior Staff,1992-12-07,9999-01-01
+d008,24189,Abdelaziz,Atrawala,1965-01-16,F,Staff,1993-03-28,1997-02-23
+d006,247888,Abdelghani,Lagarias,1965-01-15,M,Senior Engineer,1992-09-06,9999-01-01
+d009,464303,Abdelghani,Nyrup,1965-01-22,F,Senior Staff,1994-08-02,9999-01-01
+d006,217320,Abdelwaheb,Denis,1965-01-10,F,Engineer,1993-09-10,9999-01-01
+d004,31207,Abdelwaheb,Dulin,1965-01-30,F,Senior Engineer,1993-08-05,9999-01-01
+d006,95692,Abdulah,Hofstetter,1965-01-20,M,Engineer,1999-11-24,2000-07-24
+d007,243576,Abdulah,Lodder,1965-01-04,M,Senior Staff,2001-11-10,9999-01-01
+d006,221369,Abdulah,Pocchiola,1965-01-28,F,Engineer,1996-08-28,9999-01-01
+d007,239244,Abdulla,Kitai,1965-01-13,M,Senior Staff,1996-02-20,9999-01-01
+d007,416420,Adamantios,Heemskerk,1965-01-22,M,Senior Staff,1986-08-08,9999-01-01
+d007,432031,Adamantios,Matzat,1965-01-11,F,Senior Staff,1993-02-28,9999-01-01
+d005,33293,Adamantios,Vanwelkenhuysen,1965-02-01,M,Engineer,2000-01-11,2000-08-18
+d007,52386,Adas,Denti,1965-01-28,M,Senior Staff,1995-05-30,9999-01-01
+d005,62245,Adel,Bressoud,1965-01-01,F,Engineer,1995-08-30,9999-01-01
+d007,236964,Adel,Foote,1965-01-17,M,Staff,1998-08-19,9999-01-01
+d004,427852,Adil,Kieras,1965-01-02,F,Senior Engineer,1992-07-20,9999-01-01
+d005,18021,Adil,Matzke,1965-01-07,M,Senior Engineer,1995-05-08,9999-01-01
+d007,55857,Adin,Scallan,1965-01-18,M,Senior Staff,1996-09-14,9999-01-01
+d005,219047,Aemilian,Kusalik,1965-01-30,M,Senior Engineer,1995-05-27,9999-01-01
+d005,421039,Aemilian,Zedlitz,1965-01-28,M,Engineer,1988-12-23,1993-07-16
+d005,73794,Aiichiro,Castellani,1965-01-26,M,Engineer,1985-08-26,1987-08-19
+d004,67934,Aiman,Gargeya,1965-01-07,M,Senior Engineer,1993-03-07,9999-01-01
+d004,89680,Aiman,Mawatari,1965-01-27,F,Senior Engineer,1997-05-01,9999-01-01
+d005,66807,Aiman,Rosaz,1965-01-21,F,Senior Engineer,1999-05-22,9999-01-01
+d005,441651,Aimee,Billawala,1965-01-07,M,Engineer,1989-02-20,1995-08-24
+d006,200312,Akemi,Fujisaki,1965-01-27,F,Senior Engineer,1998-06-25,9999-01-01
+d001,425535,Alagu,Vieri,1965-01-18,F,Senior Staff,1992-08-22,9999-01-01
+d005,416074,Alain,Lieberherr,1965-01-08,M,Senior Engineer,1996-05-10,9999-01-01
+d006,52778,Alain,Penn,1965-01-15,M,Technique Leader,1986-05-03,9999-01-01
+d009,432121,Alair,Straney,1965-01-06,F,Senior Staff,1992-11-14,9999-01-01
+d006,431759,Alassane,Ramsay,1965-02-01,M,Engineer,1987-11-05,1989-04-12
+d005,429249,Alassane,Wolniewicz,1965-01-28,M,Senior Engineer,1993-10-06,9999-01-01
+d003,201229,Alejandra,Khasidashvili,1965-01-03,M,Staff,1994-07-30,9999-01-01
+d007,447232,Aleksander,Schaaf,1965-01-22,M,Senior Staff,2001-05-25,9999-01-01
+d003,463495,Alenka,Barriga,1965-01-28,F,Senior Staff,1993-05-06,9999-01-01
+d004,89922,Alexius,Ibel,1965-01-26,M,Senior Engineer,1993-04-24,9999-01-01
+d003,218299,Almudena,Genin,1965-01-09,M,Senior Staff,1993-09-26,2001-11-06
+d005,456824,Aloke,Neiman,1965-01-13,F,Technique Leader,1985-07-10,1996-07-23
+d005,233114,Alselm,Gargeya,1965-01-20,M,Senior Engineer,1987-12-25,9999-01-01
+d009,430981,Amabile,Koyama,1965-01-24,M,Senior Staff,1990-07-25,1993-05-14
+d005,404462,Anestis,Setlzner,1965-01-09,M,Senior Engineer,1991-07-13,9999-01-01
+d007,34077,Angel,Sichman,1965-01-08,F,Senior Staff,1997-11-16,9999-01-01
+d006,13957,Angus,Chelton,1965-01-10,F,Senior Engineer,1986-04-18,1987-02-02
+d006,284954,Anneke,Hammerschmidt,1965-01-16,M,Engineer,1996-01-30,9999-01-01
+d004,235368,Anneli,Joslin,1965-01-09,M,Senior Engineer,1987-04-12,9999-01-01
+d005,202031,Annemarie,Peternell,1965-01-23,F,Engineer,1994-03-13,1997-06-05
+d005,33722,Anwar,Collette,1965-01-15,M,Senior Engineer,1994-03-22,9999-01-01
+d007,24553,Anwar,Passafiume,1965-01-12,M,Senior Staff,1994-01-30,9999-01-01
+d002,257469,Anyuan,Hanratty,1965-01-22,F,Senior Staff,1996-01-06,9999-01-01
+d001,92846,Anyuan,Kropatsch,1965-01-11,M,Senior Staff,1993-09-05,9999-01-01
+d004,445456,Apostol,Gruenwald,1965-01-12,M,Engineer,1998-08-04,2000-03-18
+d002,482905,Aral,Hebden,1965-01-16,F,Senior Staff,1991-09-10,9999-01-01
+d004,214789,Arfst,Chepyzhov,1965-01-28,F,Senior Engineer,1997-02-06,9999-01-01
+d004,92438,Aria,Kilgore,1965-01-04,M,Senior Engineer,1996-02-28,9999-01-01
+d002,93549,Arie,Coullard,1965-02-01,F,Senior Staff,1998-04-15,9999-01-01
+d005,414808,Aris,Sambasivam,1965-01-05,M,Senior Engineer,1993-02-20,1998-05-20
+d005,79606,Arnd,Peir,1965-01-03,F,Senior Engineer,1986-12-11,9999-01-01
+d004,453723,Arne,Kohling,1965-01-15,F,Senior Engineer,1993-12-13,9999-01-01
+d004,53924,Arnould,Gaughan,1965-01-27,F,Senior Engineer,1998-01-23,9999-01-01
+d004,70990,Arumugam,Nitta,1965-01-22,F,Senior Engineer,1990-03-23,9999-01-01
+d004,96767,Arumugam,Vecchio,1965-01-07,F,Senior Engineer,1992-08-14,9999-01-01
+d007,418717,Arunachalam,Magliocco,1965-01-20,F,Senior Staff,1992-12-22,9999-01-01
+d007,244873,Arunachalam,Oppitz,1965-01-04,M,Senior Staff,1994-05-20,9999-01-01
+d005,432261,Arve,Bergere,1965-01-30,F,Senior Engineer,1994-07-28,9999-01-01
+d008,204246,Arve,Worfolk,1965-01-09,M,Senior Staff,1990-04-01,9999-01-01
+d001,294527,Ashish,Candan,1965-01-04,F,Senior Staff,1992-02-02,9999-01-01
+d007,78106,Ashish,Ratnaker,1965-01-09,M,Senior Staff,1986-11-10,9999-01-01
+d004,35642,Ashish,Talmon,1965-01-30,F,Senior Engineer,2002-06-13,9999-01-01
+d004,241667,Atilio,Olivero,1965-01-28,M,Senior Engineer,1992-09-04,9999-01-01
+d004,276445,Atilio,Randi,1965-01-27,M,Senior Engineer,1994-07-02,9999-01-01
+d005,263439,Atreye,Kabayashi,1965-01-09,M,Senior Engineer,1986-12-15,9999-01-01
+d009,52599,Augustine,Mungall,1965-01-25,F,Senior Engineer,1996-08-30,9999-01-01
+d007,275801,Ayakannu,Heinisuo,1965-01-22,F,Senior Staff,1986-06-28,9999-01-01
+d004,249433,Ayonca,Matzov,1965-01-16,F,Senior Engineer,1997-06-03,9999-01-01
+d001,106710,Babette,Anandan,1965-01-31,M,Senior Staff,1993-11-22,9999-01-01
+d002,429040,Bader,Detkin,1965-01-22,M,Staff,1993-10-24,1999-07-31
+d002,109278,Bangqing,Schach,1965-01-21,M,Senior Staff,1996-03-22,9999-01-01
+d005,499495,Baoqiu,Kakkar,1965-01-14,M,Engineer,1999-08-30,9999-01-01
+d004,232697,Barry,Ramsak,1965-01-23,F,Senior Engineer,1999-09-07,9999-01-01
+d001,22455,Barry,Unno,1965-01-06,F,Senior Staff,1999-11-16,9999-01-01
+d005,73903,Bartek,Cappello,1965-01-29,M,Engineer,1988-07-28,1993-01-02
+d009,452196,Bartek,Snyers,1965-01-17,M,Senior Staff,1992-01-14,2001-05-02
+d005,404788,Basem,Beausoleil,1965-01-16,M,Engineer,1998-03-16,9999-01-01
+d002,471552,Basem,Lortz,1965-01-22,F,Staff,1997-10-25,9999-01-01
+d007,233785,Baziley,Ballarin,1965-01-30,F,Senior Staff,1995-07-28,9999-01-01
+d008,451275,Bedrich,Isard,1965-01-25,M,Senior Staff,1986-06-07,9999-01-01
+d005,288893,Bedrich,Rosenbaum,1965-01-30,M,Senior Engineer,1998-01-27,9999-01-01
+d004,236559,Berna,Nanard,1965-01-20,M,Senior Engineer,1989-08-20,1991-03-18
+d004,457489,Berna,Ranst,1965-01-24,F,Senior Engineer,1992-05-14,9999-01-01
+d004,414543,Bernd,Anick,1965-01-03,F,Senior Engineer,1988-11-19,9999-01-01
+d005,292515,Bernd,Thummel,1965-01-04,M,Engineer,1998-08-03,9999-01-01
+d005,37592,Berni,Stranks,1965-02-01,M,Engineer,1985-11-05,1992-09-19
+d004,17206,Berry,DeMori,1965-01-02,M,Senior Engineer,1998-12-27,9999-01-01
+d009,229098,Berry,Yurek,1965-01-08,F,Senior Staff,1995-08-16,9999-01-01
+d005,26617,Berto,Bruckman,1965-01-06,M,Engineer,1991-11-23,1994-03-27
+d009,230126,Bezalel,Radivojevic,1965-01-31,M,Senior Staff,1995-07-03,9999-01-01
+d005,466509,Bezalel,Verhoeff,1965-01-26,F,Senior Engineer,1993-03-22,9999-01-01
+d009,41137,Bikash,Buchter,1965-01-20,F,Senior Staff,1992-11-22,9999-01-01
+d007,239748,Bilhanan,Dusink,1965-01-23,F,Senior Staff,1996-06-04,9999-01-01
+d007,26476,Bilhanan,Karcich,1965-01-19,M,Staff,1996-04-09,1997-02-04
+d005,241872,Bluma,Fetvedt,1965-01-11,F,Senior Staff,1997-02-02,9999-01-01
+d003,466745,Boalin,Birsak,1965-01-26,M,Senior Staff,2000-10-15,9999-01-01
+d008,278239,Boaz,Bottner,1965-01-19,F,Staff,1994-02-06,9999-01-01
+d008,244624,Boaz,Seuren,1965-01-31,F,Senior Staff,1994-03-27,9999-01-01
+d001,53874,Bodo,Schade,1965-01-23,M,Senior Staff,1995-02-14,9999-01-01
+d004,264939,Bogdan,Bahi,1965-01-10,M,Senior Engineer,1992-02-10,9999-01-01
+d001,50670,Boguslaw,Snedden,1965-01-30,F,Senior Staff,1993-02-20,9999-01-01
+d004,296621,Bokyung,Plump,1965-01-02,M,Technique Leader,1986-07-05,1989-04-27
+d002,15058,Bouchung,Bugrara,1965-01-30,M,Senior Staff,1998-06-18,9999-01-01
+d002,297008,Boutros,Awdeh,1965-01-20,M,Staff,1985-11-07,1988-07-11
+d005,289454,Bowen,Narwekar,1965-01-20,M,Senior Engineer,1985-03-08,9999-01-01
+d005,273286,Brigham,Asmuth,1965-01-26,M,Senior Engineer,1996-01-24,9999-01-01
+d005,90116,Brigham,Luiz,1965-01-11,F,Assistant Engineer,1990-04-10,1995-06-10
+d005,216375,Byong,Gustavson,1965-01-16,M,Senior Engineer,1985-03-12,9999-01-01
+d005,282699,Candida,Felcyn,1965-01-28,F,Engineer,1995-08-04,2002-05-25
+d005,294857,Caolyn,Ozeri,1965-01-15,M,Senior Engineer,1993-07-29,9999-01-01
+d008,71334,Cathie,Peck,1965-01-15,M,Senior Engineer,1998-04-12,9999-01-01
+d005,233690,Cedric,Riefers,1965-01-17,F,Engineer,1994-09-08,9999-01-01
+d009,231671,Chandrasekaran,Pearson,1965-01-07,F,Staff,1995-04-14,9999-01-01
+d008,35441,Chandrasekaran,Peek,1965-01-31,F,Senior Engineer,1993-02-06,9999-01-01
+d005,65013,Chandrasekaran,Peral,1965-01-03,M,Senior Engineer,1992-02-29,2001-12-14
+d005,488414,Changho,Gaughan,1965-01-10,F,Engineer,1987-06-21,1991-07-13
+d004,450934,Chanjung,Raoux,1965-01-23,M,Senior Engineer,1998-05-25,9999-01-01
+d006,252185,Chaosheng,Conta,1965-01-01,F,Engineer,2002-04-14,9999-01-01
+d002,469805,Chaosheng,Shobatake,1965-01-21,M,Senior Staff,1999-07-03,2001-09-15
+d004,491596,Charmane,Pargas,1965-01-21,F,Senior Engineer,1993-07-29,9999-01-01
+d005,28974,Chenxi,Sundgren,1965-01-09,F,Senior Engineer,1986-09-02,9999-01-01
+d009,109547,Chenye,Zizka,1965-01-04,M,Senior Staff,1994-02-22,2002-04-21
+d004,428235,Chenyi,Demian,1965-01-17,F,Senior Engineer,1988-06-29,2000-03-18
+d005,61253,Cheong,Uhrik,1965-01-09,M,Senior Engineer,2001-06-04,9999-01-01
+d004,52038,Chikako,Armand,1965-01-13,M,Senior Engineer,1985-05-18,9999-01-01
+d005,262210,Chinho,Bottner,1965-01-22,M,Senior Engineer,1999-07-30,9999-01-01
+d005,34446,Chinhyun,Bauknecht,1965-01-31,M,Senior Engineer,1986-12-19,9999-01-01
+d004,68633,Chinhyun,Rassart,1965-01-28,F,Senior Engineer,1993-07-29,9999-01-01
+d004,76178,Chiradeep,Meriste,1965-01-19,M,Senior Engineer,1988-05-23,1997-06-25
+d005,247612,Chiranjit,Constantine,1965-01-04,F,Engineer,1997-05-25,9999-01-01
+d005,279791,Chiranjit,Lyonns,1965-01-10,F,Engineer,1995-12-24,9999-01-01
+d007,51036,Chriss,Fasbender,1965-01-29,F,Staff,1995-05-23,9999-01-01
+d003,475538,Christophe,Leaver,1965-01-15,F,Staff,1998-10-31,9999-01-01
+d008,441965,Claudi,Heijenga,1965-01-12,F,Senior Staff,1994-08-30,9999-01-01
+d001,33606,Clyde,Swift,1965-01-02,M,Staff,1994-11-14,1996-12-29
+d007,415363,Conal,Shackell,1965-01-19,F,Senior Staff,1993-01-25,9999-01-01
+d005,78871,Conor,Ghandeharizadeh,1965-01-15,M,Senior Engineer,1985-05-25,9999-01-01
+d005,87783,Conor,Thorensen,1965-01-26,M,Senior Engineer,1988-02-24,9999-01-01
+d004,39268,Constantijn,Awdeh,1965-01-10,M,Engineer,1987-10-20,1990-06-10
+d007,423327,Constantijn,Lichtman,1965-01-27,F,Senior Staff,2001-06-26,9999-01-01
+d006,450817,DAIDA,Frolund,1965-01-10,M,Senior Engineer,1996-07-16,9999-01-01
+d005,446424,DAIDA,Nooteboom,1965-01-16,F,Senior Engineer,1992-11-24,9999-01-01
+d004,499260,Danae,Honglei,1965-01-11,M,Engineer,1998-09-14,9999-01-01
+d003,401154,Danae,Kragelund,1965-01-27,F,Senior Staff,1993-05-19,9999-01-01
+d005,424569,Danco,Luff,1965-01-14,F,Engineer,1997-10-30,9999-01-01
+d004,418309,Danel,Petereit,1965-01-24,F,Senior Engineer,1994-02-21,9999-01-01
+d004,61377,Dannz,Ohori,1965-01-01,M,Senior Staff,1994-01-17,9999-01-01
+d001,403621,Deborah,Kaminger,1965-01-07,M,Senior Staff,1997-06-04,9999-01-01
+d005,220029,Demos,Asser,1965-01-17,F,Senior Engineer,1985-11-04,9999-01-01
+d007,488142,Denis,Narlikar,1965-01-05,M,Senior Staff,1997-06-30,9999-01-01
+d005,66702,Deniz,Thibadeau,1965-02-01,F,Senior Engineer,2000-09-26,9999-01-01
+d006,79239,Denny,Griswold,1965-01-07,F,Senior Engineer,1989-05-18,2001-11-19
+d003,202581,Dharmaraja,Merlo,1965-01-19,F,Staff,1987-06-05,1990-12-16
+d008,105356,Diederik,Matzov,1965-01-29,M,Senior Engineer,1996-05-12,9999-01-01
+d007,230689,Dietrich,Crabtree,1965-01-14,F,Senior Staff,1986-05-24,9999-01-01
+d002,437276,Dines,DeMori,1965-01-17,F,Senior Staff,1994-12-07,9999-01-01
+d004,214995,Dinkar,Hoppenstand,1965-01-12,M,Engineer,1994-05-04,9999-01-01
+d009,263325,Dinkar,Sinicrope,1965-01-19,M,Staff,1985-07-12,1985-12-22
+d004,296664,Dipayan,Geffroy,1965-01-31,M,Senior Engineer,1987-09-17,9999-01-01
+d007,10291,Dipayan,Seghrouchni,1965-01-23,M,Senior Staff,1994-03-30,9999-01-01
+d003,251341,Divier,Kumaresan,1965-01-11,M,Senior Staff,1998-12-05,9999-01-01
+d005,273159,Divine,Hofmeyr,1965-01-26,F,Technique Leader,1989-04-14,9999-01-01
+d003,103196,Djenana,Albarhamtoshy,1965-01-16,M,Senior Staff,1993-07-16,9999-01-01
+d004,221435,Djenana,Marrevee,1965-01-06,M,Senior Engineer,2000-02-06,9999-01-01
+d005,447191,Dmitri,Rousseau,1965-01-17,M,Engineer,1995-06-19,1997-05-26
+d001,91648,Dmitry,Msuda,1965-01-29,F,Senior Staff,1997-10-22,9999-01-01
+d004,66382,Domenico,Candan,1965-01-04,F,Engineer,1997-07-13,9999-01-01
+d004,211858,Domenico,Ratnaker,1965-01-08,F,Senior Engineer,1993-03-24,9999-01-01
+d004,270792,Domenico,Wendorf,1965-02-01,M,Engineer,1988-09-08,1992-12-28
+d008,476361,Doohun,Preusig,1965-01-09,M,Technique Leader,1985-04-13,9999-01-01
+d008,103172,Doowon,Highland,1965-01-05,M,Senior Engineer,1995-03-09,1995-11-23
+d002,256078,Duke,Picaronny,1965-01-20,M,Staff,1995-03-23,1995-04-05
+d007,229364,Dulce,Magliocco,1965-01-07,M,Staff,1987-02-13,1987-02-23
+d005,45162,Dulce,Speel,1965-01-11,F,Senior Engineer,1996-10-18,9999-01-01
+d008,66530,Dung,Leaver,1965-01-29,M,Staff,1998-04-04,9999-01-01
+d006,284561,Duri,Beznosov,1965-01-03,F,Senior Engineer,1988-02-15,9999-01-01
+d007,84236,Eberhardt,Barriga,1965-01-18,F,Senior Staff,1993-06-03,9999-01-01
+d003,487988,Ekawit,Schaft,1965-01-05,M,Senior Staff,1999-05-20,9999-01-01
+d004,64984,Eldridge,Eldridge,1965-01-06,F,Senior Engineer,1991-06-24,9999-01-01
+d004,19236,Elzbieta,Morris,1965-01-24,F,Senior Engineer,1993-07-12,9999-01-01
+d005,241567,Emran,Miara,1965-01-18,M,Senior Engineer,1995-05-02,9999-01-01
+d006,34533,Erzsebet,Shigei,1965-01-10,M,Senior Engineer,1991-01-21,9999-01-01
+d005,203599,Ewing,DiGiano,1965-01-21,M,Technique Leader,2000-02-01,9999-01-01
+d008,78086,Fabrizio,Anick,1965-01-20,M,Staff,1997-12-16,1998-05-02
+d005,107737,Fabrizio,Chleq,1965-01-23,M,Senior Engineer,1999-07-31,9999-01-01
+d004,229220,Fabrizio,Lichtman,1965-01-21,F,Senior Engineer,1992-02-09,9999-01-01
+d008,289687,Fai,Maccarone,1965-01-31,F,Senior Staff,1993-10-30,9999-01-01
+d005,291669,Faiza,Bach,1965-01-04,F,Engineer,1999-09-13,9999-01-01
+d005,77030,Faiza,Garnham,1965-01-02,F,Technique Leader,1986-03-02,9999-01-01
+d004,64431,Faiza,Zongker,1965-01-25,M,Technique Leader,1995-12-10,2001-12-03
+d004,63631,Falguni,Cherinka,1965-01-22,M,Senior Engineer,1986-09-08,9999-01-01
+d002,201709,Fan,Kakkad,1965-01-01,M,Senior Staff,1993-02-24,9999-01-01
+d004,265875,Fan,Marsiglia,1965-01-20,M,Senior Engineer,1997-09-03,9999-01-01
+d006,407837,Fei,Erez,1965-02-01,M,Senior Engineer,1991-10-15,9999-01-01
+d005,452365,Fei,Gadepally,1965-01-05,M,Engineer,1997-11-13,9999-01-01
+d007,79895,Fei,Murtagh,1965-01-30,M,Senior Staff,1986-01-19,9999-01-01
+d001,435289,Feixiong,Schurmann,1965-01-04,M,Senior Staff,1993-02-14,9999-01-01
+d009,427332,Feiyu,Hemaspaandra,1965-01-20,M,Staff,1995-06-04,9999-01-01
+d007,36626,Fen,Genin,1965-01-02,M,Senior Staff,1986-05-09,9999-01-01
+d005,229207,Filipe,Erol,1965-01-30,F,Senior Engineer,1997-07-11,1999-08-15
+d005,18424,Filipp,Rousseau,1965-01-19,M,Senior Engineer,2002-06-07,9999-01-01
+d007,498635,Florian,Pezzoli,1965-01-09,F,Senior Staff,1997-07-22,9999-01-01
+d004,457776,Florian,Siepmann,1965-01-15,F,Senior Engineer,1996-12-20,9999-01-01
+d009,401420,Florian,Uhrig,1965-01-06,F,Senior Staff,1987-01-31,9999-01-01
+d002,298577,Florina,Litecky,1965-01-11,M,Senior Staff,1994-12-02,9999-01-01
+d004,234739,Foong,Aamodt,1965-01-31,M,Senior Engineer,1986-06-28,9999-01-01
+d007,290010,Fox,Lodder,1965-01-11,M,Staff,1988-02-17,1994-01-29
+d004,240870,Francesca,Chorvat,1965-01-06,M,Senior Staff,1993-03-03,9999-01-01
+d005,204471,Franziska,Maginnis,1965-01-27,F,Senior Engineer,1992-02-17,9999-01-01
+d008,420694,Frazer,Barbanera,1965-01-19,M,Senior Staff,1991-11-04,9999-01-01
+d009,90518,Fumiko,Chepyzhov,1965-01-24,M,Senior Staff,1997-01-27,9999-01-01
+d007,38168,Fumiko,Deverell,1965-01-14,M,Senior Staff,1996-08-14,9999-01-01
+d008,449815,Fumitaka,Quittner,1965-01-27,M,Senior Staff,1993-04-20,9999-01-01
+d004,281834,Fumitake,Marchegay,1965-01-16,M,Assistant Engineer,1991-09-29,1997-06-12
+d005,293329,Fumiya,Griswold,1965-01-15,F,Senior Engineer,1994-06-12,9999-01-01
+d004,475258,Fumiyo,Feinberg,1965-01-10,M,Senior Staff,1995-11-22,9999-01-01
+d009,295030,Fun,Keirsey,1965-01-01,M,Senior Staff,1985-07-09,9999-01-01
+d007,263926,Fusako,Schwartzbauer,1965-01-03,F,Senior Staff,1993-04-07,9999-01-01
+d009,491632,Gadiel,Perly,1965-01-01,M,Senior Staff,1994-10-20,9999-01-01
+d007,421033,Garnik,Randt,1965-01-14,F,Senior Staff,1994-12-23,9999-01-01
+d004,445723,Gaurav,Roison,1965-01-31,F,Senior Staff,1995-10-22,9999-01-01
+d003,457070,Gay,Plavsic,1965-01-25,F,Senior Staff,1994-08-06,9999-01-01
+d005,81619,Gen,Aloisi,1965-01-12,M,Senior Engineer,1993-03-12,2002-07-25
+d004,475087,Genevieve,Snedden,1965-01-31,F,Senior Engineer,1988-10-21,9999-01-01
+d007,58819,Gennady,Liesche,1965-01-04,F,Senior Staff,1987-12-02,9999-01-01
+d003,447135,Gennady,Rouquie,1965-01-31,M,Senior Staff,1989-08-24,9999-01-01
+d008,15376,Geoff,Soicher,1965-01-10,M,Senior Staff,1996-08-14,2001-03-01
+d004,495969,Geoffrey,Panienski,1965-01-01,M,Senior Engineer,1995-11-29,1998-06-07
+d003,224934,George,Miake,1965-01-05,M,Senior Staff,1996-01-02,9999-01-01
+d004,406125,Georgi,Portugali,1965-01-25,F,Technique Leader,1987-09-27,9999-01-01
+d009,498456,Geraldo,Gerteisen,1965-01-17,M,Senior Staff,1993-06-04,9999-01-01
+d007,428219,Ghassan,Androutsos,1965-01-21,F,Senior Staff,1993-12-25,9999-01-01
+d009,276563,Gift,Solares,1965-01-01,F,Senior Staff,1995-08-01,9999-01-01
+d009,29265,Gilbert,Calkin,1965-01-14,M,Senior Staff,1994-03-21,9999-01-01
+d006,450309,Gill,Orlowska,1965-01-08,M,Technique Leader,1986-12-25,9999-01-01
+d007,491478,Gill,Varman,1965-01-16,M,Senior Staff,1996-06-18,9999-01-01
+d005,481148,Gina,Decaestecker,1965-01-18,F,Engineer,1986-06-20,1989-05-25
+d001,418689,Gino,Uehara,1965-01-07,F,Senior Staff,1988-02-17,1991-04-09
+d005,227354,Gio,Murtha,1965-01-12,F,Senior Engineer,1994-11-11,9999-01-01
+d001,416877,Gio,Orsini,1965-01-02,M,Senior Staff,1993-12-07,9999-01-01
+d004,496970,Giordano,Maquelin,1965-01-03,F,Senior Engineer,1999-12-31,9999-01-01
+d003,202950,Giordano,Pietrzykowski,1965-01-17,F,Senior Staff,1987-03-26,9999-01-01
+d007,291368,Gita,Rodier,1965-01-03,M,Staff,1990-08-24,1994-04-27
+d007,109953,Godehard,Chorvat,1965-01-26,F,Senior Staff,1996-04-10,9999-01-01
+d005,231798,Goetz,Alvarado,1965-01-28,M,Senior Engineer,1997-12-25,9999-01-01
+d004,492677,Goetz,McAffer,1965-01-26,M,Senior Engineer,1994-02-04,9999-01-01
+d009,64209,Golgen,Schoegge,1965-01-24,M,Senior Staff,1988-02-26,9999-01-01
+d005,47262,Gonzalo,Binkley,1965-01-10,M,Senior Engineer,1990-08-16,9999-01-01
+d005,214866,Gopalakrishnan,Angel,1965-02-01,F,Senior Engineer,2002-07-05,9999-01-01
+d009,426824,Gopalakrishnan,Mawatari,1965-01-25,F,Senior Staff,1993-10-29,9999-01-01
+d005,249451,Gopalakrishnan,Pehl,1965-01-06,F,Engineer,1995-03-15,2001-06-10
+d004,222952,Gopalakrishnan,Suermann,1965-01-28,M,Senior Engineer,1998-04-30,9999-01-01
+d005,109211,Gor,Delgrande,1965-01-11,M,Senior Engineer,2001-11-06,9999-01-01
+d004,452956,Gou,Thombley,1965-01-17,M,Senior Engineer,1987-04-09,9999-01-01
+d007,434384,Greger,Babb,1965-01-28,M,Senior Staff,1995-11-06,2002-01-18
+d007,290441,Gregory,Collavizza,1965-01-25,F,Senior Staff,1993-09-08,9999-01-01
+d005,204425,Gretta,Huttel,1965-01-03,F,Senior Engineer,1990-10-08,9999-01-01
+d005,497660,Gritta,Petereit,1965-01-02,M,Senior Engineer,1985-04-06,1994-09-05
+d004,237400,Guadalupe,Perri,1965-01-24,M,Technique Leader,1996-06-27,1999-08-21
+d008,206836,Guadalupe,Pfau,1965-01-12,M,Senior Staff,2001-03-22,9999-01-01
+d007,239581,Guangming,Marquardt,1965-01-18,F,Staff,1997-06-06,2001-03-21
+d009,272285,Gully,Mitchem,1965-01-19,M,Senior Staff,1995-01-22,9999-01-01
+d007,273858,Gunilla,Matzen,1965-01-13,M,Senior Staff,1995-12-28,9999-01-01
+d007,105520,Haldun,Lienhardt,1965-01-01,M,Senior Staff,1987-01-29,9999-01-01
+d002,448994,Haldun,Syang,1965-01-12,M,Staff,1997-02-11,9999-01-01
+d008,469527,Halsur,Ibel,1965-01-24,F,Staff,1998-03-05,9999-01-01
+d005,40536,Harngdar,Bernardinello,1965-01-20,F,Senior Engineer,1996-02-29,9999-01-01
+d001,270821,Hatem,Bierbaum,1965-01-21,F,Staff,1999-09-07,2000-04-11
+d003,428195,Hatsukazu,Rosca,1965-01-11,M,Senior Staff,1991-10-13,9999-01-01
+d007,61680,Hauke,Templeman,1965-01-24,M,Staff,1991-10-23,1999-02-21
+d004,483675,Hausi,Kamber,1965-01-22,M,Senior Engineer,1993-02-15,9999-01-01
+d003,20720,Heejo,Brodie,1965-01-17,M,Senior Staff,1996-12-27,1997-05-17
+d004,62033,Heeju,Cappelli,1965-01-24,M,Senior Engineer,1994-01-15,9999-01-01
+d004,280648,Heeju,Lorys,1965-01-04,M,Senior Engineer,1992-12-26,9999-01-01
+d008,469867,Hein,Jonsson,1965-01-23,M,Senior Staff,1990-02-12,9999-01-01
+d007,419099,Heon,Broomell,1965-01-15,M,Staff,1998-05-06,9999-01-01
+d005,94944,Heping,Matheson,1965-01-13,M,Senior Engineer,1997-06-24,9999-01-01
+d007,423350,Heping,Monarch,1965-01-04,F,Senior Staff,1993-04-15,9999-01-01
+d008,445152,Heping,Peac,1965-01-09,M,Senior Staff,1992-03-20,9999-01-01
+d004,465874,Herb,Picht,1965-01-12,F,Engineer,1994-05-31,9999-01-01
+d004,226227,Herbert,Erva,1965-01-07,M,Senior Engineer,1995-09-06,9999-01-01
+d006,435791,Hercules,Speer,1965-01-07,M,Senior Engineer,1999-03-07,9999-01-01
+d006,420599,Hidde,Riexinger,1965-01-02,M,Senior Engineer,1995-11-18,1996-08-20
+d003,263012,Hideo,Buchter,1965-01-09,F,Staff,1999-05-01,9999-01-01
+d006,282000,Hideo,Ratnakar,1965-01-06,F,Senior Engineer,1997-06-12,1998-03-20
+d005,276472,Hideyuki,Flanders,1965-01-27,F,Senior Engineer,1994-11-10,9999-01-01
+d003,293080,Hideyuki,Slaats,1965-01-12,M,Senior Staff,1987-05-30,9999-01-01
+d004,23396,Hilari,Fairtlough,1965-01-02,F,Technique Leader,1986-12-15,9999-01-01
+d007,10095,Hilari,Morton,1965-01-03,M,Senior Staff,2000-03-09,9999-01-01
+d002,251166,Hinrich,Hooghiemstra,1965-01-22,M,Senior Staff,1993-10-05,9999-01-01
+d005,449984,Hinrich,Perin,1965-02-01,F,Senior Engineer,1993-11-20,9999-01-01
+d006,459685,Hirochika,Goldhammer,1965-02-01,M,Engineer,1998-03-12,9999-01-01
+d008,294652,Hironobu,Brodie,1965-01-27,M,Senior Engineer,1993-09-17,9999-01-01
+d004,280411,Hironoby,Farrar,1965-01-18,F,Technique Leader,1987-11-03,1996-11-12
+d009,493031,Hironoby,Jakobus,1965-01-23,F,Senior Staff,1996-07-29,9999-01-01
+d004,63419,Hiroyasu,Seuren,1965-01-14,F,Senior Engineer,1989-03-05,9999-01-01
+d009,108091,Hisao,Ghemri,1965-01-09,M,Senior Staff,1990-11-14,9999-01-01
+d005,94761,Hitofumi,Zaccaria,1965-01-27,M,Senior Engineer,1997-11-22,9999-01-01
+d008,276027,Holgard,Stavenow,1965-01-04,F,Senior Staff,1995-02-28,9999-01-01
+d004,469399,Hongzhu,Ruemmler,1965-01-25,F,Engineer,1999-02-14,9999-01-01
+d003,256856,Hongzue,Barbanera,1965-01-03,M,Senior Staff,1995-06-17,9999-01-01
+d004,106958,Horward,Begiun,1965-01-24,F,Senior Engineer,1992-11-06,2002-05-22
+d005,288665,Horward,Khasidashvili,1965-01-31,M,Senior Engineer,1998-11-19,9999-01-01
+d009,217363,Horward,Marzano,1965-01-14,M,Staff,1996-04-11,9999-01-01
+d008,413098,Hsiangchu,Taubenfeld,1965-01-26,M,Senior Staff,1999-04-17,9999-01-01
+d003,109652,Huan,Perko,1965-01-25,M,Senior Staff,1993-07-31,1999-03-12
+d004,255466,Huan,Roccetti,1965-01-18,M,Senior Engineer,1985-07-03,9999-01-01
+d003,43733,Huei,Boguraev,1965-01-26,M,Senior Staff,1998-12-31,9999-01-01
+d005,92920,Huei,Hutter,1965-01-20,M,Senior Engineer,2000-01-29,9999-01-01
+d004,38593,Huei,Orsini,1965-01-14,M,Senior Engineer,1995-06-04,9999-01-01
+d006,429087,Hugh,Senzako,1965-01-27,M,Technique Leader,1992-10-15,9999-01-01
+d008,279384,Hugo,Comte,1965-01-24,M,Senior Staff,1992-06-30,1993-12-05
+d009,426795,Huican,Lunn,1965-01-07,M,Senior Staff,1991-07-23,9999-01-01
+d008,32649,Ingmar,Nannarelli,1965-01-12,M,Senior Staff,1988-06-10,9999-01-01
+d007,253707,Insup,Hainaut,1965-01-05,M,Staff,1998-02-11,9999-01-01
+d001,236591,Insup,Reinhard,1965-01-11,M,Senior Staff,1993-04-08,9999-01-01
+d005,256881,Ioana,Jakobus,1965-01-03,M,Senior Engineer,1999-08-10,9999-01-01
+d005,225788,Ipke,Kieras,1965-01-08,M,Engineer,1995-12-18,9999-01-01
+d005,414662,Ipke,Schneeberger,1965-01-21,M,Senior Engineer,1994-09-20,9999-01-01
+d007,488632,Irena,Baalen,1965-01-20,M,Staff,1999-11-22,2001-02-10
+d007,444208,Irena,Cesareni,1965-01-27,M,Senior Staff,1985-10-30,9999-01-01
+d007,267667,Irena,Kaiserswerth,1965-01-05,F,Senior Staff,1994-09-05,9999-01-01
+d009,262741,Izaskun,Moffat,1965-01-19,M,Senior Staff,1994-04-30,2001-08-14
+d001,248351,Jaana,Milicia,1965-02-01,M,Senior Staff,1985-06-02,9999-01-01
+d004,105191,Jaber,Kleiser,1965-01-01,M,Engineer,1986-12-13,1987-09-22
+d004,463472,Jaber,Sethi,1965-01-11,M,Technique Leader,1995-06-06,9999-01-01
+d005,457832,Jackson,Zielinski,1965-02-01,F,Senior Engineer,1997-09-12,9999-01-01
+d004,295255,Jacopo,Bellone,1965-01-04,M,Technique Leader,1988-03-13,9999-01-01
+d005,451272,Jacopo,Krohm,1965-01-02,M,Senior Engineer,1997-04-23,9999-01-01
+d004,207021,Jacqueline,Akaboshi,1965-01-20,M,Engineer,1997-12-06,9999-01-01
+d007,424805,Jacqueline,Zallocco,1965-01-24,M,Senior Staff,1994-12-17,9999-01-01
+d005,81105,Jaewon,Boissier,1965-01-14,M,Senior Engineer,1998-05-24,9999-01-01
+d001,86422,Jaewon,Thummel,1965-02-01,F,Senior Staff,1992-09-14,9999-01-01
+d005,241254,Jagoda,Anguita,1965-01-15,F,Senior Engineer,1993-05-11,9999-01-01
+d007,280420,Jahangir,Hofting,1965-01-31,M,Senior Staff,1993-09-28,9999-01-01
+d007,425875,Jahangir,Kroft,1965-01-19,F,Senior Staff,1995-06-11,9999-01-01
+d007,451253,Jaihie,Ozeri,1965-01-15,F,Senior Staff,1997-06-20,9999-01-01
+d006,74237,Jaihie,Vilarrasa,1965-01-29,M,Engineer,2001-03-03,2001-06-20
+d004,229981,Jamaludin,Fordan,1965-01-19,M,Senior Engineer,2001-02-05,9999-01-01
+d005,109062,Jamaludin,Kandlur,1965-02-01,M,Senior Engineer,1992-06-19,9999-01-01
+d007,91415,Jamaludin,Nilsson,1965-01-04,M,Senior Staff,1994-01-15,9999-01-01
+d002,84494,Janalee,Loncour,1965-01-02,F,Staff,1986-04-12,1987-09-04
+d002,427776,Jaques,Navazio,1965-01-25,F,Senior Staff,1998-04-03,9999-01-01
+d008,22451,Jasminko,Bresenham,1965-01-27,M,Senior Staff,1996-12-15,9999-01-01
+d005,402718,Jeanna,Rettelbach,1965-01-17,F,Senior Engineer,1996-02-14,9999-01-01
+d004,60559,Jeanna,Stemann,1965-01-19,M,Senior Engineer,1996-08-29,9999-01-01
+d004,404879,Jeanne,Kaminger,1965-01-12,M,Engineer,1987-07-21,1991-04-21
+d001,79310,Jeong,Cunliffe,1965-01-24,F,Senior Staff,1996-10-27,9999-01-01
+d009,37070,Jeong,Undy,1965-01-22,F,Senior Staff,1993-02-13,9999-01-01
+d005,53597,Jiafu,Marchegay,1965-01-30,M,Senior Engineer,1992-03-02,9999-01-01
+d004,35044,Jiang,Waschkowski,1965-01-04,F,Senior Engineer,1997-05-27,9999-01-01
+d005,217387,Jianhao,Molenaar,1965-01-21,M,Senior Engineer,1994-10-22,9999-01-01
+d004,21181,Jianhui,Cangellaris,1965-01-21,F,Engineer,1999-10-06,9999-01-01
+d004,275881,Jiann,Munro,1965-01-08,M,Senior Engineer,1988-05-18,9999-01-01
+d005,91973,Jianwen,Jakobus,1965-01-25,M,Senior Engineer,1998-08-24,2001-02-12
+d004,55799,Jianwen,Litzler,1965-01-23,F,Senior Engineer,1993-06-16,9999-01-01
+d008,86672,JoAnne,Anido,1965-01-15,F,Staff,1995-09-15,9999-01-01
+d006,38550,JoAnne,Baez,1965-01-14,F,Senior Engineer,1987-02-16,9999-01-01
+d005,408953,Jolita,Claffy,1965-01-26,M,Senior Engineer,1993-12-24,9999-01-01
+d001,482755,Jouni,Conia,1965-01-03,M,Senior Staff,1999-10-31,9999-01-01
+d004,287583,Jovan,Hockney,1965-01-18,M,Senior Engineer,1997-06-21,9999-01-01
+d007,293752,Jungsoon,Bail,1965-01-04,F,Senior Staff,1994-02-18,9999-01-01
+d004,88422,Jungsoon,Birsak,1965-01-28,M,Technique Leader,1985-04-03,9999-01-01
+d005,422450,Junichi,Rubsam,1965-01-04,F,Senior Engineer,1988-10-30,1994-03-11
+d004,46811,Junsik,Berendt,1965-01-10,M,Senior Engineer,1988-04-27,9999-01-01
+d004,415187,Juyoung,Peltason,1965-01-03,M,Assistant Engineer,1998-09-01,9999-01-01
+d002,426168,Kaijung,Mateescu,1965-01-10,M,Senior Staff,1992-11-17,9999-01-01
+d005,458919,Kaijung,Papadias,1965-01-12,M,Engineer,1999-05-01,2001-04-12
+d004,296718,Kamakshi,Bahl,1965-01-30,F,Senior Engineer,1987-12-22,9999-01-01
+d007,400683,Kamakshi,Manders,1965-01-28,M,Staff,1995-08-05,9999-01-01
+d005,416492,Kannan,Meriste,1965-01-15,M,Senior Engineer,1992-08-12,9999-01-01
+d005,21843,Karsten,Azadmanesh,1965-01-09,M,Senior Engineer,1985-11-29,9999-01-01
+d004,79043,Katsuo,Hockney,1965-01-24,M,Technique Leader,1999-11-07,9999-01-01
+d005,295236,Kauko,Fujisawa,1965-01-24,M,Senior Engineer,1992-09-12,9999-01-01
+d005,288028,Kauko,Narwekar,1965-01-22,F,Senior Engineer,1994-12-16,9999-01-01
+d004,27970,KayLiang,Miyakawa,1965-01-12,F,Technique Leader,1995-11-22,2000-02-07
+d007,262861,Kayoko,Attimonelli,1965-01-16,F,Senior Staff,1997-10-14,1999-01-20
+d001,435181,Kazuhide,Fiutem,1965-01-16,M,Senior Staff,1998-05-10,9999-01-01
+d004,13499,Kazuhiko,Sidou,1965-01-16,M,Technique Leader,1991-09-01,9999-01-01
+d009,91172,Kazuhisa,Melter,1965-01-19,M,Senior Staff,1993-07-15,9999-01-01
+d009,80067,Kazuhisa,Weiland,1965-01-19,M,Senior Staff,1991-11-09,9999-01-01
+d004,243077,Kazunori,Perz,1965-02-01,F,Senior Engineer,1999-02-25,9999-01-01
+d007,429231,Kazuyasu,Schmiedel,1965-01-09,F,Senior Staff,1991-09-07,9999-01-01
+d005,485489,Keiichiro,Armand,1965-01-01,F,Senior Engineer,1996-12-13,9999-01-01
+d005,233818,Kellie,Heydon,1965-01-01,M,Senior Engineer,1991-11-11,9999-01-01
+d002,488984,Kendra,Junet,1965-01-18,M,Senior Staff,1993-02-28,9999-01-01
+d004,265521,Kensei,Salverda,1965-01-04,M,Senior Engineer,2001-05-25,9999-01-01
+d005,488482,Kensyu,Tsunoo,1965-01-30,F,Engineer,1999-12-05,9999-01-01
+d008,422146,Kenton,Miara,1965-01-08,F,Engineer,1999-05-14,9999-01-01
+d005,202826,Kerhong,Matzke,1965-01-19,M,Senior Engineer,1993-11-14,9999-01-01
+d005,430631,Kersti,Marsiglia,1965-01-17,F,Engineer,1994-02-19,9999-01-01
+d002,489756,Kersti,Miculan,1965-01-01,F,Senior Staff,1999-06-10,9999-01-01
+d004,76598,Keung,Ferriere,1965-01-24,M,Engineer,1991-05-13,1995-10-08
+d005,252318,Keung,Simmel,1965-01-30,M,Technique Leader,1995-11-17,2002-06-24
+d004,430891,Khalil,Gien,1965-01-06,M,Senior Engineer,1991-08-06,9999-01-01
+d006,52956,Khalil,Picci,1965-01-31,F,Senior Engineer,1992-03-20,9999-01-01
+d005,455243,Khoa,Bahk,1965-01-13,M,Senior Engineer,1991-06-10,1998-02-07
+d002,420877,Khosrow,Erez,1965-01-29,M,Senior Staff,1996-02-11,9999-01-01
+d005,298339,King,Benzmuller,1965-01-11,M,Senior Engineer,1995-09-04,9999-01-01
+d004,71243,Kinh,Buchter,1965-01-10,F,Senior Engineer,1993-03-29,9999-01-01
+d005,200363,Kirk,Quaggetto,1965-01-10,F,Senior Engineer,1995-06-30,9999-01-01
+d008,447376,Kirk,Zongker,1965-01-07,F,Staff,1999-12-10,9999-01-01
+d005,250748,Kish,Turnbull,1965-01-27,F,Senior Engineer,1994-02-10,9999-01-01
+d007,410703,Kitty,Halloran,1965-01-14,M,Staff,1997-11-20,2002-01-18
+d005,406299,Kitty,Kolvik,1965-01-25,M,Engineer,1991-10-07,1995-04-29
+d006,410881,Koichi,Grabner,1965-01-06,F,Senior Engineer,1990-04-24,9999-01-01
+d008,10476,Kokou,Iisaka,1965-01-01,M,Senior Staff,1994-09-20,9999-01-01
+d001,74598,Kolar,Garigliano,1965-01-07,M,Senior Staff,1992-05-10,1999-03-07
+d009,240285,Kolar,Greenaway,1965-01-23,M,Staff,1998-11-14,9999-01-01
+d004,76189,Kolar,Hinsberger,1965-01-02,F,Senior Engineer,1994-10-20,9999-01-01
+d005,29679,Kolar,Steenbeek,1965-01-17,M,Senior Engineer,1986-10-18,9999-01-01
+d008,278484,Koldo,Peternell,1965-01-25,M,Staff,1992-11-05,1993-04-06
+d006,36982,Kotesh,Rajala,1965-01-22,M,Senior Engineer,2000-06-23,9999-01-01
+d009,439905,Kousuke,Levasseur,1965-01-03,F,Senior Staff,1996-03-15,9999-01-01
+d007,444099,Kousuke,Worfolk,1965-01-28,M,Senior Staff,1997-03-22,9999-01-01
+d003,209443,Krassimir,Garnier,1965-01-19,M,Senior Staff,1998-01-26,9999-01-01
+d007,64828,Krister,Pappas,1965-01-27,F,Staff,1999-09-30,9999-01-01
+d005,95286,Kristin,Guerreiro,1965-01-18,F,Senior Engineer,1997-08-23,9999-01-01
+d004,93600,Kristina,Neimat,1965-01-13,M,Technique Leader,1988-04-18,9999-01-01
+d006,219035,Kristine,Bierman,1965-01-18,F,Technique Leader,1988-05-13,9999-01-01
+d001,86213,Kristine,Clemencon,1965-01-28,M,Senior Staff,1996-04-21,9999-01-01
+d004,71685,Kristinn,Olano,1965-01-01,F,Senior Engineer,1989-10-03,9999-01-01
+d004,432257,Kwangjo,Hiltgen,1965-01-20,F,Engineer,1998-12-22,9999-01-01
+d005,465711,Lakshmi,Frijda,1965-01-06,F,Senior Engineer,1995-04-21,9999-01-01
+d005,69936,Lalit,Unni,1965-01-23,F,Assistant Engineer,1998-12-06,9999-01-01
+d004,416455,Laurentiu,Morton,1965-01-22,F,Engineer,1998-12-21,1999-12-23
+d001,222998,Leaf,Awdeh,1965-01-07,M,Senior Staff,1991-02-20,9999-01-01
+d007,83544,Leaf,Baak,1965-01-18,M,Senior Staff,2001-09-05,9999-01-01
+d005,488115,Leah,Luke,1965-01-29,M,Assistant Engineer,1995-08-23,1995-09-27
+d005,88411,Lena,Cannane,1965-01-31,F,Engineer,2000-01-28,9999-01-01
+d005,285396,Lena,Kohling,1965-01-27,M,Senior Engineer,1991-10-04,9999-01-01
+d004,493744,Leni,Kropatsch,1965-01-14,M,Senior Engineer,1997-07-17,9999-01-01
+d009,280291,Lenore,Badache,1965-01-26,F,Staff,1998-11-24,9999-01-01
+d005,30182,Leon,Potthoff,1965-01-26,M,Senior Engineer,1993-12-08,9999-01-01
+d001,205174,Leszek,Spinelli,1965-01-05,M,Staff,1998-12-10,9999-01-01
+d005,106695,Lijie,Garrabrants,1965-01-31,F,Senior Staff,1990-10-02,9999-01-01
+d004,268191,LiMin,Teitelbaum,1965-01-07,M,Senior Engineer,1995-11-01,9999-01-01
+d004,241728,Limsoon,Boudaillier,1965-01-30,F,Senior Engineer,1995-08-12,9999-01-01
+d007,429381,Limsoon,Roohalamini,1965-01-06,M,Senior Staff,1992-11-25,9999-01-01
+d004,52970,Lobel,Werthner,1965-01-22,M,Senior Engineer,1997-03-17,9999-01-01
+d007,297232,Lokesh,Saoudi,1965-01-16,F,Senior Staff,1999-05-25,9999-01-01
+d001,262439,Lorien,Lagarias,1965-01-30,F,Senior Staff,1994-10-10,9999-01-01
+d005,91182,Lucien,Schwartzburd,1965-01-04,F,Senior Engineer,1994-08-25,9999-01-01
+d007,234195,Luerbio,Terkki,1965-01-07,M,Senior Staff,1998-05-14,9999-01-01
+d004,490557,Luise,Vigier,1965-01-27,M,Senior Engineer,2001-07-01,9999-01-01
+d005,458383,Mabhin,Foote,1965-01-06,M,Engineer,1999-04-23,9999-01-01
+d005,227476,Macha,Schnabel,1965-01-11,M,Senior Engineer,1996-05-11,9999-01-01
+d004,240340,Mack,Staylopatis,1965-01-14,M,Senior Engineer,1991-04-02,9999-01-01
+d004,93278,Magdalena,Penn,1965-02-01,F,Senior Engineer,2002-01-04,9999-01-01
+d008,99654,Mahendra,Motley,1965-01-30,F,Senior Staff,1992-09-28,9999-01-01
+d004,39341,Mahmut,Lampe,1965-01-01,F,Senior Engineer,1994-05-11,9999-01-01
+d006,86324,Maia,Berstel,1965-01-14,F,Senior Engineer,1993-07-17,2002-01-13
+d002,10480,Make,Baba,1965-01-25,F,Staff,1988-05-18,1989-06-03
+d006,447877,Make,Heuser,1965-01-13,M,Senior Engineer,1997-07-02,9999-01-01
+d008,406714,Malu,Ossenbruggen,1965-02-01,F,Senior Staff,1994-11-21,9999-01-01
+d007,254591,Mamdouh,Lodder,1965-01-08,F,Staff,1986-03-23,1991-12-09
+d007,65998,Mandell,Alameldin,1965-01-09,F,Senior Staff,1996-04-08,9999-01-01
+d004,22926,Manibrata,Genther,1965-01-01,M,Senior Engineer,1996-01-15,9999-01-01
+d005,83805,Manohar,Harllee,1965-01-23,F,Senior Engineer,1987-03-11,9999-01-01
+d007,245664,Manohar,Kilgore,1965-01-18,M,Staff,1998-11-17,9999-01-01
+d007,101902,Mantis,Millington,1965-01-14,M,Senior Staff,1997-03-17,9999-01-01
+d003,484126,Manton,Lueh,1965-01-05,F,Senior Staff,1989-04-07,9999-01-01
+d007,27686,Manu,Rosiles,1965-01-28,M,Senior Staff,1998-03-03,9999-01-01
+d005,208147,Manu,Rothenberg,1965-01-09,M,Senior Engineer,1995-12-07,9999-01-01
+d004,483825,Marek,Mitchem,1965-01-22,M,Senior Engineer,1992-11-20,9999-01-01
+d004,467441,Margareta,Bondorf,1965-01-13,M,Senior Engineer,1994-11-07,9999-01-01
+d007,481467,Margareta,Polajnar,1965-01-03,F,Staff,1989-02-24,1996-07-01
+d009,420476,Mariangiola,Bolsens,1965-01-28,M,Senior Staff,1994-06-15,9999-01-01
+d005,296303,Mariangiola,Heyers,1965-01-28,F,Technique Leader,1992-08-04,9999-01-01
+d005,11157,Mario,Cochrane,1965-02-01,M,Engineer,1985-03-30,1991-02-06
+d004,427659,Mariusz,Ritcey,1965-01-27,F,Engineer,1987-03-16,1991-07-01
+d005,423633,Mariusz,Tokunaga,1965-01-30,F,Senior Engineer,1985-02-11,9999-01-01
+d001,243637,Marjo,Delgrange,1965-01-16,F,Senior Staff,1996-06-23,9999-01-01
+d001,31568,Mark,Lalonde,1965-01-10,M,Staff,1996-11-24,9999-01-01
+d004,261737,Mark,Lindqvist,1965-01-23,M,Senior Engineer,1997-11-22,9999-01-01
+d008,443485,Marke,Klerer,1965-01-23,M,Senior Staff,1990-04-14,9999-01-01
+d005,403455,Marko,Velardi,1965-01-25,M,Senior Engineer,1997-11-22,2001-08-27
+d009,68168,Marl,Thiria,1965-01-14,F,Senior Staff,1992-03-17,1996-12-31
+d005,40983,Marla,Cherinka,1965-01-17,F,Technique Leader,1986-12-01,9999-01-01
+d008,266862,Mart,Plumb,1965-01-10,F,Senior Staff,1986-04-21,9999-01-01
+d005,406537,Martien,Ranum,1965-01-30,F,Senior Engineer,1993-03-15,1999-05-18
+d005,284711,Martijn,Azevdeo,1965-01-21,M,Senior Engineer,1988-02-10,9999-01-01
+d004,401333,Martins,Shokrollahi,1965-01-30,M,Senior Engineer,1991-11-04,9999-01-01
+d007,74668,Masako,Bonifati,1965-01-01,F,Senior Staff,1987-04-09,9999-01-01
+d004,445941,Masako,Dechter,1965-01-11,M,Technique Leader,1985-09-25,9999-01-01
+d004,261184,Masako,Kornatzky,1965-01-30,M,Senior Engineer,1987-08-29,9999-01-01
+d008,405372,Masami,Merro,1965-01-24,M,Senior Staff,1996-09-23,1999-08-31
+d005,217080,Masami,Puoti,1965-01-12,M,Senior Engineer,2000-01-21,9999-01-01
+d003,431576,Masamitsu,Back,1965-01-06,F,Senior Staff,1994-03-25,9999-01-01
+d004,281859,Masanao,Papastamatiou,1965-01-17,F,Senior Engineer,1993-11-25,9999-01-01
+d004,38103,Masasuke,Babu,1965-01-12,M,Senior Engineer,1993-03-31,9999-01-01
+d006,45590,Masoud,Genin,1965-01-21,F,Technique Leader,1991-02-16,1994-06-01
+d003,244605,Masoud,Suwa,1965-01-22,M,Senior Staff,1997-11-25,9999-01-01
+d003,489755,Matk,Chorvat,1965-01-14,M,Senior Staff,2000-12-29,9999-01-01
+d005,474763,Mayuko,Clouatre,1965-01-07,F,Engineer,1997-09-04,9999-01-01
+d005,30154,Mayuko,Skafidas,1965-01-26,M,Technique Leader,1999-04-19,9999-01-01
+d007,262328,Mayuko,Vural,1965-01-03,F,Staff,1997-12-24,9999-01-01
+d004,53088,Mechthild,Lamma,1965-01-25,M,Senior Engineer,1992-05-18,1993-06-03
+d007,263649,Mechthild,Zongker,1965-01-17,M,Senior Staff,1993-07-26,9999-01-01
+d006,56847,Menkae,Chinin,1965-01-14,M,Senior Engineer,1989-08-19,9999-01-01
+d005,277829,Michaela,Fandrianto,1965-01-22,M,Senior Engineer,1986-06-02,9999-01-01
+d005,38043,Michaela,Randi,1965-01-05,M,Senior Engineer,1994-11-23,9999-01-01
+d004,62167,Mihalis,Haldar,1965-01-25,F,Senior Engineer,1998-05-11,2001-02-03
+d007,238949,Minghong,Cronin,1965-01-09,F,Senior Staff,1987-10-04,9999-01-01
+d005,44540,Mingzeng,Sadowski,1965-01-16,F,Senior Engineer,1989-11-12,9999-01-01
+d007,265794,Miquel,Halloran,1965-01-15,M,Senior Staff,2002-01-14,9999-01-01
+d007,441197,Miquel,Legleitner,1965-01-18,F,Senior Staff,1993-06-28,9999-01-01
+d005,222311,Miyeon,Billingsley,1965-01-20,M,Senior Engineer,1992-12-05,9999-01-01
+d004,242314,Miyeon,Burnard,1965-01-11,F,Engineer,1985-02-07,1985-12-13
+d004,454994,Mohan,Picht,1965-01-01,M,Senior Engineer,2000-02-24,9999-01-01
+d005,218022,Mokhtar,Poupard,1965-01-26,M,Technique Leader,1992-02-02,9999-01-01
+d007,229690,Mokhtar,Sherertz,1965-01-08,M,Senior Staff,1995-06-10,1995-11-08
+d005,205085,Moni,Kornyak,1965-01-23,M,Technique Leader,1991-09-26,9999-01-01
+d007,229547,Moni,Schach,1965-01-03,M,Senior Staff,1991-07-04,9999-01-01
+d002,433640,Monique,Baer,1965-01-12,F,Senior Staff,1987-12-12,1996-02-13
+d002,474372,Monique,Cyre,1965-01-13,F,Senior Staff,1993-02-13,1994-10-11
+d007,405015,Morris,Fargier,1965-01-02,M,Senior Staff,1996-06-29,9999-01-01
+d005,293280,Moti,Steenbeek,1965-01-24,F,Senior Engineer,1993-01-21,9999-01-01
+d007,413205,Mototsugu,Prampolini,1965-01-09,M,Senior Staff,1988-06-12,9999-01-01
+d005,251680,Moty,Sommen,1965-01-05,F,Senior Engineer,1990-08-14,9999-01-01
+d005,415563,Mrinalini,Bierbaum,1965-01-21,F,Senior Engineer,1994-03-12,9999-01-01
+d002,262208,Mrinalini,Holburn,1965-01-16,M,Senior Staff,1987-04-20,9999-01-01
+d005,485579,Munehiro,Iwayama,1965-01-18,M,Senior Engineer,1992-12-15,9999-01-01
+d009,215629,Munehiro,Manders,1965-01-15,M,Senior Staff,1995-05-18,9999-01-01
+d005,403237,Muneo,Gunderson,1965-01-01,M,Senior Engineer,1992-12-08,1993-09-19
+d004,233247,Murthy,Angiulli,1965-01-18,M,Senior Engineer,1991-08-02,1998-07-21
+d001,269728,Naftali,Kragelund,1965-01-12,M,Senior Staff,1993-05-15,9999-01-01
+d004,34452,Naftaly,Foong,1965-01-08,M,Senior Engineer,2000-05-09,9999-01-01
+d004,37719,Nakhoon,Buescher,1965-01-31,M,Engineer,1997-06-12,1999-01-17
+d007,14907,Nakhoon,Luga,1965-01-14,M,Senior Staff,1994-12-18,9999-01-01
+d005,47515,Naraig,Jenevein,1965-01-26,M,Senior Engineer,1987-01-18,9999-01-01
+d004,406249,Naraig,Snyers,1965-01-23,F,Senior Engineer,1986-12-03,1992-05-19
+d005,268043,Narain,Mikschl,1965-01-28,M,Engineer,1997-11-02,9999-01-01
+d006,283041,Nathalie,Foote,1965-01-04,F,Senior Engineer,1991-07-20,1992-06-20
+d005,416660,Nathalie,Luke,1965-01-28,M,Senior Engineer,1997-09-15,9999-01-01
+d009,249780,Nechama,Gaughan,1965-01-12,F,Senior Engineer,1996-01-16,9999-01-01
+d004,498955,Nechama,Kandlur,1965-01-13,F,Senior Engineer,2002-01-16,9999-01-01
+d006,469529,Neven,Rikino,1965-01-07,M,Senior Engineer,1993-10-21,9999-01-01
+d003,106242,Nevio,Thisen,1965-02-01,M,Senior Staff,1994-03-25,9999-01-01
+d005,419388,Nikolaos,Bamford,1965-01-22,F,Senior Engineer,1991-02-25,1997-09-23
+d005,209712,Nimmagadda,Baak,1965-01-17,F,Engineer,1995-10-30,9999-01-01
+d004,428294,Nimmagadda,Kusakari,1965-01-13,M,Engineer,1992-09-29,1998-05-14
+d003,280070,Niteen,Ebeling,1965-01-24,F,Senior Staff,1993-03-29,9999-01-01
+d006,232209,Nitsan,Rouquie,1965-01-11,M,Senior Engineer,1995-08-02,9999-01-01
+d004,401278,Oguz,Schurmann,1965-01-16,M,Engineer,1995-11-11,9999-01-01
+d005,284687,Oksana,Redmiles,1965-01-15,F,Senior Engineer,1992-06-22,9999-01-01
+d005,255657,Oldrich,Cyre,1965-01-20,F,Senior Engineer,1994-02-10,9999-01-01
+d004,86546,Oldrich,Woycyznski,1965-01-09,F,Senior Engineer,1990-05-15,9999-01-01
+d007,56428,Olivera,Hanabata,1965-01-27,M,Senior Staff,1992-11-09,9999-01-01
+d008,239803,Oscal,Ernst,1965-01-30,M,Senior Staff,1997-05-19,9999-01-01
+d004,445226,Oscar,Baumann,1965-01-01,M,Senior Engineer,1996-01-22,9999-01-01
+d005,106514,Otilia,Speek,1965-01-04,M,Senior Engineer,1988-07-30,1992-11-07
+d005,89048,Otmar,Birjandi,1965-01-24,F,Senior Engineer,1992-03-23,9999-01-01
+d005,411070,Otmar,Brandsma,1965-01-29,F,Senior Engineer,1992-05-27,9999-01-01
+d007,39952,Otmar,Sudbeck,1965-01-02,M,Staff,1998-07-22,9999-01-01
+d001,43358,Ottavia,Mitsuhashi,1965-01-07,F,Staff,1989-08-18,1996-07-13
+d002,63444,Padma,Peres,1965-01-19,F,Senior Staff,1991-02-20,1994-12-22
+d009,259237,Palash,Gammage,1965-01-27,F,Senior Staff,1994-10-23,9999-01-01
+d006,462493,Paloma,Gerlach,1965-01-12,M,Senior Engineer,1994-07-26,9999-01-01
+d004,217551,Panayotis,Lukaszewicz,1965-01-02,F,Senior Engineer,1995-06-06,9999-01-01
+d005,447613,Paris,Restivo,1965-01-15,M,Senior Engineer,1991-11-21,9999-01-01
+d005,266689,Parke,Serna,1965-01-24,M,Senior Engineer,1985-03-29,1999-09-23
+d005,281848,Parke,Staylopatis,1965-01-29,M,Senior Engineer,1999-07-31,9999-01-01
+d005,84922,Parke,Unno,1965-01-22,F,Engineer,1996-07-01,9999-01-01
+d001,257378,Pascal,Bernatsky,1965-01-06,F,Senior Staff,1995-09-04,9999-01-01
+d009,85874,Pasqua,Taubman,1965-01-30,F,Senior Staff,1986-06-23,9999-01-01
+d007,299737,Patricio,Itzfeldt,1965-02-01,M,Senior Staff,1994-05-21,9999-01-01
+d004,214427,Peer,Molberg,1965-01-29,F,Engineer,1996-11-17,9999-01-01
+d007,22415,Perla,Jumpertz,1965-01-20,M,Senior Staff,1994-08-24,9999-01-01
+d008,220799,Perla,Orlowska,1965-01-17,F,Senior Engineer,1990-12-03,9999-01-01
+d005,224335,Perry,Chachaty,1965-01-29,F,Senior Engineer,1992-07-22,9999-01-01
+d003,484142,Perry,Cooman,1965-01-05,M,Senior Staff,1993-04-22,9999-01-01
+d003,232496,Peternela,Klerer,1965-01-31,M,Staff,1986-06-06,1994-06-08
+d004,41114,Petter,Thummel,1965-01-25,M,Technique Leader,1995-12-24,9999-01-01
+d005,483213,Phillip,Munch,1965-01-16,M,Technique Leader,1991-09-02,1998-04-01
+d007,284431,Pintsang,Fujisawa,1965-01-25,M,Senior Staff,2002-04-16,9999-01-01
+d007,251301,Pintsang,Impagliazzo,1965-01-30,M,Senior Staff,1989-05-06,9999-01-01
+d005,400780,Poornachandra,Asser,1965-01-09,M,Engineer,1993-11-07,9999-01-01
+d001,220582,Poornachandra,Zielinski,1965-01-08,M,Senior Staff,2001-02-12,9999-01-01
+d001,215843,Pramod,Loncour,1965-01-30,F,Senior Staff,1993-03-30,9999-01-01
+d005,213384,Pranas,Narwekar,1965-01-04,F,Senior Engineer,1993-09-26,9999-01-01
+d008,401364,Pranay,Kambil,1965-01-16,F,Senior Staff,1999-07-30,2002-04-06
+d004,96100,Pranay,Rebaine,1965-01-11,M,Senior Engineer,1998-02-01,2000-12-31
+d004,208784,Pranjal,Juneja,1965-01-30,F,Senior Engineer,1985-03-21,9999-01-01
+d009,496100,Pranjal,Reinhard,1965-01-07,F,Staff,1995-05-08,9999-01-01
+d007,71188,Pranjal,Schapiro,1965-01-02,M,Senior Staff,1993-12-14,9999-01-01
+d004,414922,Prasadram,Piazza,1965-01-20,M,Senior Engineer,1992-06-04,1997-11-04
+d007,53278,Premsyl,Lortz,1965-01-31,M,Senior Staff,1999-02-01,9999-01-01
+d007,274271,Prodip,Ritcey,1965-01-10,F,Senior Staff,1993-09-10,9999-01-01
+d003,467176,Przemyslawa,Borovoy,1965-01-05,F,Senior Staff,1998-06-18,9999-01-01
+d007,455726,Qiwen,Kriebel,1965-01-08,M,Senior Staff,1992-12-12,9999-01-01
+d001,432956,Qunsheng,Birrer,1965-01-25,F,Senior Staff,1994-05-13,9999-01-01
+d001,32714,Radoslaw,Maliniak,1965-01-16,M,Staff,1997-11-17,9999-01-01
+d005,485577,Rafael,Menhoudj,1965-01-30,F,Senior Engineer,1997-04-27,9999-01-01
+d001,90692,Rajmohan,DasSarma,1965-01-03,M,Senior Staff,1990-09-14,9999-01-01
+d004,458790,Ramya,Azadmanesh,1965-01-17,M,Senior Engineer,1994-11-19,9999-01-01
+d004,463212,Ramya,Rossi,1965-01-09,F,Senior Engineer,1987-03-02,9999-01-01
+d003,445201,Randi,Alblas,1965-01-22,F,Staff,1992-05-02,2000-01-27
+d005,30465,Randi,Avouris,1965-01-28,M,Senior Engineer,1991-07-16,9999-01-01
+d008,108198,Randi,Samarati,1965-01-24,F,Senior Staff,1999-10-21,9999-01-01
+d004,479407,Randi,Tomescu,1965-01-18,M,Senior Engineer,2000-11-25,9999-01-01
+d008,274369,Ranga,Waymire,1965-01-29,F,Senior Staff,1997-01-27,9999-01-01
+d009,438264,Rasikan,Barreiro,1965-01-19,M,Senior Staff,2000-09-26,9999-01-01
+d005,474918,Rasikan,Khalil,1965-01-15,M,Engineer,1985-02-10,1985-03-11
+d002,413666,Remco,Duclos,1965-01-05,M,Senior Staff,1996-04-18,9999-01-01
+d005,91308,Remmert,Plumb,1965-01-23,F,Senior Engineer,1993-06-14,1995-12-08
+d007,16461,Remmert,Schahn,1965-01-14,M,Senior Staff,1994-09-06,9999-01-01
+d004,56209,Remzi,Douceur,1965-01-19,M,Senior Engineer,1998-12-01,9999-01-01
+d007,460920,Remzi,Mitzlaff,1965-01-22,F,Senior Staff,1986-04-06,9999-01-01
+d003,421384,Renny,Bednarek,1965-01-02,M,Senior Staff,1995-06-01,9999-01-01
+d007,470456,Reuven,Oehlmann,1965-01-13,F,Senior Staff,1994-03-29,9999-01-01
+d001,242104,Richara,Sudkamp,1965-01-05,F,Senior Staff,1994-09-05,9999-01-01
+d006,93220,Richara,Walston,1965-01-11,M,Senior Engineer,1996-08-27,9999-01-01
+d007,14551,Richard,Sinitsyn,1965-01-18,M,Senior Staff,1993-06-27,1993-09-16
+d005,475965,Rimon,Pietracaprina,1965-01-02,M,Senior Engineer,1990-07-10,9999-01-01
+d005,24205,Roddy,Rubsam,1965-01-25,F,Senior Engineer,1993-09-19,9999-01-01
+d005,56682,Roded,Picco,1965-01-28,F,Assistant Engineer,1993-11-06,9999-01-01
+d005,209945,Roded,Veevers,1965-01-27,M,Engineer,1990-10-23,1996-01-08
+d005,51142,Rosine,Lakshmanan,1965-01-29,F,Senior Engineer,1991-01-31,9999-01-01
+d004,22502,Rutger,Binkley,1965-01-29,M,Senior Engineer,1989-10-16,2001-11-02
+d005,252592,Sachem,McDermid,1965-01-12,M,Senior Engineer,1987-04-30,1987-12-02
+d004,468763,Sachin,Zlotek,1965-01-12,M,Senior Engineer,1985-03-11,1990-08-09
+d001,67320,Sadok,Lorys,1965-01-18,M,Senior Staff,1987-05-10,9999-01-01
+d008,59661,Saeko,Baik,1965-01-09,M,Staff,1996-05-23,1999-08-15
+d008,216054,Sahrah,Angiulli,1965-01-24,M,Senior Staff,1991-07-31,9999-01-01
+d005,434936,Sahrah,Rosis,1965-01-15,F,Senior Engineer,2000-06-23,9999-01-01
+d009,212154,Sailaja,Holburn,1965-01-17,M,Senior Staff,1997-03-03,9999-01-01
+d005,287609,Sailaja,Negoita,1965-01-06,F,Senior Engineer,2000-01-19,9999-01-01
+d003,276186,Sajjad,Vecchi,1965-01-30,M,Senior Staff,1998-06-02,9999-01-01
+d005,72190,Sajjad,Waeselynck,1965-01-19,F,Engineer,1999-09-13,9999-01-01
+d001,210752,Saniya,Stenning,1965-01-25,F,Senior Staff,1991-12-10,9999-01-01
+d004,283168,Sanjai,Kopetz,1965-01-15,F,Assistant Engineer,1999-04-19,2000-06-07
+d001,79763,Sanjoy,Barreiro,1965-01-20,M,Senior Staff,1996-04-09,9999-01-01
+d005,492639,Sanjoy,Porenta,1965-01-30,M,Engineer,1997-07-10,9999-01-01
+d007,48275,Sariel,Massonet,1965-01-29,F,Senior Staff,1993-11-19,9999-01-01
+d009,260408,Sasan,Brookner,1965-01-19,M,Senior Staff,2001-09-03,9999-01-01
+d006,287436,Sasan,Deville,1965-01-02,M,Technique Leader,1994-10-11,2001-04-25
+d007,203720,Sasan,Thimonier,1965-01-30,M,Senior Staff,1996-08-21,9999-01-01
+d005,275158,Satyanarayana,Brandsma,1965-01-07,F,Engineer,1999-12-08,9999-01-01
+d005,63706,Sedat,Itzigehl,1965-01-26,F,Engineer,1997-07-31,9999-01-01
+d009,233533,Seongbae,Sluis,1965-01-10,M,Senior Staff,1995-09-23,1997-06-10
+d005,426611,Serap,Bahi,1965-01-29,M,Engineer,1986-05-15,1990-05-04
+d001,254916,Serenella,Couchot,1965-01-31,M,Senior Staff,1997-03-15,2001-04-13
+d002,36521,Serif,Gladwell,1965-01-21,M,Senior Staff,1993-03-05,9999-01-01
+d005,423993,Seshu,Kolvik,1965-01-01,F,Technique Leader,1988-12-09,9999-01-01
+d001,107792,Shahab,Crooks,1965-01-13,M,Senior Staff,2001-03-18,9999-01-01
+d007,200176,Shahab,Luit,1965-01-31,F,Senior Staff,1994-11-20,1997-02-05
+d009,458726,Shahaf,Kitai,1965-01-13,M,Senior Staff,1991-12-26,9999-01-01
+d007,426153,Shahaf,Luce,1965-01-16,M,Senior Staff,1999-04-06,9999-01-01
+d001,465409,Shahid,Varman,1965-01-30,M,Senior Staff,1993-08-27,9999-01-01
+d004,493278,Shaleah,Pileggi,1965-01-28,M,Engineer,1999-02-10,1999-10-30
+d004,483838,Sham,Kavanagh,1965-01-03,F,Assistant Engineer,1997-12-18,9999-01-01
+d009,53431,Sham,Vasanthakumar,1965-01-12,M,Senior Staff,1985-10-24,9999-01-01
+d003,257484,Shaowei,Nicolson,1965-01-01,M,Senior Staff,1995-12-07,9999-01-01
+d007,80731,Shaowen,Eldridge,1965-01-25,M,Senior Staff,1994-12-05,9999-01-01
+d008,290467,Shaowen,Poulakidas,1965-01-29,M,Senior Staff,1992-04-14,9999-01-01
+d005,54198,Shaowen,Segond,1965-01-01,M,Senior Engineer,1993-01-06,9999-01-01
+d004,482885,Shaunak,Brizzi,1965-01-29,M,Senior Engineer,2000-09-01,9999-01-01
+d002,217800,Shay,Servieres,1965-02-01,F,Senior Staff,1998-08-06,9999-01-01
+d007,208330,Shen,Flanders,1965-01-11,F,Senior Staff,1997-07-03,9999-01-01
+d007,69052,Shietung,Shrader,1965-01-26,M,Senior Staff,1995-08-05,9999-01-01
+d005,475938,Shigeaki,Lanteri,1965-01-14,M,Senior Engineer,1996-02-18,9999-01-01
+d004,290563,Shigehiro,Oxenboll,1965-01-09,F,Senior Engineer,1986-02-26,9999-01-01
+d006,402025,Shigehito,Duclos,1965-01-20,F,Senior Engineer,1992-09-19,9999-01-01
+d005,244820,Shigenori,Hertweck,1965-01-15,F,Senior Engineer,1994-04-13,9999-01-01
+d001,58147,Shigenori,Sullins,1965-01-09,M,Senior Staff,1988-02-24,9999-01-01
+d005,80889,Shigeo,Linnainmaa,1965-01-07,F,Senior Engineer,1985-07-30,9999-01-01
+d004,73233,Shigeo,Merey,1965-01-15,F,Senior Engineer,1985-07-30,9999-01-01
+d006,82919,Shigeu,Claffy,1965-01-05,M,Engineer,1998-02-03,9999-01-01
+d003,246902,Shih,Shanbhogue,1965-01-27,M,Staff,1998-04-19,9999-01-01
+d006,435026,Shim,Versino,1965-01-14,F,Senior Engineer,1986-08-20,1997-11-20
+d009,40773,Shimshon,Aingworth,1965-01-09,M,Senior Staff,1991-04-13,9999-01-01
+d006,84942,Shin,Fujisaki,1965-01-15,F,Technique Leader,1988-02-23,9999-01-01
+d005,64790,Shin,Piveteau,1965-01-29,M,Senior Engineer,1993-04-19,9999-01-01
+d001,473824,Shin,Puoti,1965-01-22,F,Staff,1996-12-20,1999-05-09
+d005,84451,Shiv,Aumann,1965-01-20,M,Senior Engineer,1998-06-14,9999-01-01
+d004,447982,Shiv,Baezner,1965-01-25,F,Senior Engineer,1996-12-16,9999-01-01
+d004,416892,Shooichi,Vandervoorde,1965-01-03,M,Engineer,1996-08-16,9999-01-01
+d004,408019,Shridhar,Chleq,1965-01-01,F,Senior Engineer,1996-03-21,9999-01-01
+d004,240253,Shrikanth,Ramaiah,1965-01-16,M,Engineer,1995-05-12,2000-10-15
+d009,99057,Shugo,Reeken,1965-01-30,M,Staff,1999-06-21,9999-01-01
+d007,52770,Shugo,Yurek,1965-01-31,M,Senior Staff,1998-08-28,9999-01-01
+d005,216062,Shuichi,Anick,1965-01-22,F,Senior Engineer,1992-11-24,1999-10-26
+d008,207401,Shuji,Barbanera,1965-01-04,M,Senior Staff,1993-08-09,9999-01-01
+d003,42778,Shuji,Remmers,1965-01-19,F,Senior Staff,1996-12-17,9999-01-01
+d005,75354,Shuky,Jakobus,1965-01-11,M,Senior Engineer,1993-06-16,9999-01-01
+d005,292901,Shuky,Journel,1965-01-02,M,Senior Engineer,1993-02-14,1995-04-27
+d007,69219,Shuky,Redmiles,1965-01-09,F,Senior Staff,1994-07-06,9999-01-01
+d007,270716,Shunichi,Baer,1965-01-19,M,Staff,1998-02-04,9999-01-01
+d004,83922,Shunichi,Solovay,1965-01-10,F,Senior Engineer,1995-06-07,1998-11-18
+d007,246764,Shuzo,Czaja,1965-01-04,M,Staff,1997-11-29,9999-01-01
+d005,291612,Siamak,Gomatam,1965-01-30,M,Engineer,1998-07-08,9999-01-01
+d005,107486,Siamak,Luiz,1965-01-23,F,Senior Engineer,1987-02-11,9999-01-01
+d007,264715,Siddarth,Luke,1965-01-04,F,Staff,1993-10-06,1994-07-06
+d005,294461,Siddarth,Rosiles,1965-01-14,F,Senior Engineer,1985-11-18,9999-01-01
+d002,56415,Sigeru,Nivat,1965-01-30,M,Senior Staff,1999-10-24,9999-01-01
+d005,214184,Sivanarayana,Ranka,1965-01-11,M,Engineer,1999-10-25,2001-05-03
+d007,440642,Snehasis,Kalsbeek,1965-01-14,M,Senior Staff,1997-01-05,9999-01-01
+d004,271118,Somnath,Nitsche,1965-01-10,F,Senior Engineer,1999-08-14,1999-10-10
+d004,268890,Somnath,Uhrik,1965-01-04,M,Engineer,1988-01-14,1994-12-09
+d004,40301,Spyrose,Felder,1965-01-20,M,Senior Engineer,1996-06-16,9999-01-01
+d005,81995,Sreekrishna,Brender,1965-01-10,M,Senior Engineer,1996-03-21,9999-01-01
+d002,461563,Sreenivas,Versino,1965-01-29,M,Senior Staff,1985-08-24,1988-12-25
+d004,465062,Stafford,Gist,1965-01-29,M,Senior Engineer,1995-05-08,9999-01-01
+d004,253838,Stafford,Terlouw,1965-01-28,M,Assistant Engineer,1999-02-21,9999-01-01
+d002,109598,Stamatina,Auyong,1965-02-01,M,Senior Staff,1988-07-05,9999-01-01
+d003,222206,Stein,Uludag,1965-01-21,M,Senior Staff,1995-01-30,9999-01-01
+d008,259718,Stepehn,Bouloucos,1965-01-24,M,Senior Staff,1997-09-16,9999-01-01
+d009,466911,Stepehn,Markovitch,1965-01-11,M,Staff,1991-08-13,1995-08-07
+d007,287323,Steve,Dengi,1965-02-01,M,Staff,1999-09-15,9999-01-01
+d004,402664,Subhada,Janetzko,1965-01-04,F,Senior Engineer,1987-01-25,9999-01-01
+d008,219417,Subhrajyoti,Denna,1965-01-29,M,Staff,1996-07-25,9999-01-01
+d004,452137,Subir,Miake,1965-01-15,M,Senior Engineer,2002-07-11,9999-01-01
+d005,40283,Sudhanshu,Boissier,1965-01-07,M,Senior Engineer,1993-05-11,9999-01-01
+d003,14104,Sudhanshu,Demian,1965-01-03,M,Senior Staff,1999-07-23,9999-01-01
+d003,278452,Sudhanshu,Toyoshima,1965-01-07,F,Senior Staff,1993-08-28,9999-01-01
+d007,437395,Sumant,Thambidurai,1965-01-21,M,Senior Staff,2000-01-02,9999-01-01
+d008,474257,Sungwon,Kornyak,1965-01-24,F,Staff,1991-04-04,1994-10-23
+d009,60091,Surveyors,Bade,1965-02-01,F,Senior Staff,1996-04-10,9999-01-01
+d003,18617,Surveyors,Crouzet,1965-01-21,M,Senior Staff,1998-04-24,9999-01-01
+d005,103316,Susanne,Peternell,1965-01-03,M,Senior Engineer,1999-07-27,9999-01-01
+d005,257799,Sushant,Riefers,1965-01-26,M,Senior Engineer,1993-12-04,1998-01-08
+d005,420086,Susuma,Kitsuregawa,1965-01-27,F,Senior Engineer,1993-05-28,9999-01-01
+d007,265558,Susuma,Kleiser,1965-01-31,M,Senior Staff,1994-08-02,9999-01-01
+d005,37945,Suzette,Butterworth,1965-01-02,M,Senior Engineer,1994-02-19,9999-01-01
+d009,235096,Sverrir,Gyimothy,1965-01-21,M,Senior Staff,1992-03-20,9999-01-01
+d005,221699,Szabolcs,Georgatos,1965-01-15,F,Engineer,1999-08-16,2000-02-06
+d007,239067,Tadahiko,Pocchiola,1965-01-11,M,Staff,1996-04-02,9999-01-01
+d009,414027,Tadanori,Msuda,1965-01-31,M,Senior Engineer,1997-11-06,9999-01-01
+d005,481807,Taegyun,Vieri,1965-01-23,M,Senior Engineer,1988-06-17,1989-03-03
+d005,18810,Taiji,Jarecki,1965-01-09,M,Senior Engineer,1999-06-27,9999-01-01
+d007,72918,Takahira,Szilard,1965-01-22,M,Senior Staff,1993-01-15,9999-01-01
+d004,446897,Takahiro,Dalton,1965-01-22,M,Technique Leader,1992-09-30,9999-01-01
+d007,230865,Takushi,Brattka,1965-01-02,M,Staff,1999-03-09,9999-01-01
+d007,434845,Takushi,Skogmar,1965-01-11,M,Senior Staff,1991-06-07,9999-01-01
+d007,423038,Takushi,Strehl,1965-01-20,M,Senior Staff,1988-10-04,9999-01-01
+d004,262636,Tamiya,Reutenauer,1965-01-04,F,Senior Engineer,1985-06-02,9999-01-01
+d008,258363,Tayeb,Veevers,1965-01-17,M,Staff,1986-10-10,1991-05-24
+d004,481764,Teiji,Marrakchi,1965-01-27,M,Senior Engineer,1986-08-26,9999-01-01
+d008,17618,Teiji,Picco,1965-01-12,F,Staff,1992-09-17,1999-11-08
+d001,32347,Terresa,Peres,1965-01-08,M,Senior Staff,1997-09-15,9999-01-01
+d005,221126,Tesuya,dAstous,1965-01-23,F,Senior Engineer,1995-11-30,9999-01-01
+d007,456767,Tetsurou,Schreiter,1965-01-24,M,Senior Staff,1994-07-17,9999-01-01
+d004,63294,Tetsushi,Tanemo,1965-01-23,M,Senior Engineer,2002-03-01,9999-01-01
+d003,458134,Thanasis,Standera,1965-01-11,F,Senior Staff,1992-03-20,9999-01-01
+d007,424797,Theron,Itschner,1965-01-19,F,Senior Staff,1993-05-16,9999-01-01
+d005,284691,Theron,Ressouche,1965-01-04,F,Senior Engineer,1994-08-17,9999-01-01
+d003,209681,Tianruo,Bratten,1965-01-20,F,Senior Staff,1996-07-28,1998-04-03
+d007,235546,Tianruo,Speer,1965-01-17,M,Staff,1985-10-30,1989-03-26
+d004,465076,Tokuyasu,Ghelli,1965-01-19,M,Senior Engineer,1993-05-05,9999-01-01
+d005,486958,Tonny,Kropf,1965-01-06,F,Senior Engineer,1992-07-29,9999-01-01
+d004,31629,Toong,Veldwijk,1965-01-24,M,Engineer,1995-07-28,1996-04-26
+d005,427571,Torsten,Ranta,1965-01-20,M,Senior Engineer,1996-12-10,9999-01-01
+d007,40269,Toshiki,Ghazalie,1965-01-10,F,Senior Staff,2000-12-04,9999-01-01
+d002,230821,Toshiki,Raney,1965-01-20,M,Staff,1997-07-03,2000-03-21
+d004,266981,Toshimi,Kragelund,1965-01-26,M,Engineer,1993-02-20,1994-07-05
+d005,403010,Toshimitsu,Sluis,1965-01-16,M,Senior Engineer,1985-02-18,9999-01-01
+d005,287984,Troy,Kobuchi,1965-01-09,M,Senior Engineer,1999-02-12,9999-01-01
+d004,240236,True,Tischendorf,1965-01-24,M,Senior Engineer,1992-01-19,9999-01-01
+d005,272141,Tsutomu,Neiman,1965-01-13,F,Senior Staff,1993-05-05,9999-01-01
+d006,64487,Tsutomu,Rebaine,1965-01-27,M,Senior Engineer,1994-09-17,9999-01-01
+d002,423214,Tsutomu,Tetzlaff,1965-01-31,F,Senior Staff,1993-09-23,9999-01-01
+d008,31170,Tuval,Waleschkowski,1965-01-08,M,Senior Staff,1987-10-16,1988-12-14
+d005,206966,Tzu,Sichman,1965-01-21,M,Senior Engineer,1992-11-16,9999-01-01
+d006,85702,Udi,Merks,1965-01-04,M,Engineer,1997-08-15,9999-01-01
+d005,450255,Udo,Waymire,1965-01-31,M,Technique Leader,1986-06-14,9999-01-01
+d005,35798,Ulf,Oberman,1965-01-29,F,Senior Engineer,1997-03-15,9999-01-01
+d001,270084,Ulises,Frolund,1965-01-11,M,Senior Staff,1993-07-26,9999-01-01
+d004,275994,Uma,Prampolini,1965-01-29,F,Senior Engineer,1998-02-21,9999-01-01
+d007,423204,Uma,Stranks,1965-01-08,M,Senior Staff,1996-09-12,9999-01-01
+d003,429703,Ung,Honglei,1965-01-06,F,Senior Staff,1993-09-02,9999-01-01
+d001,419953,Ung,Orlowski,1965-01-29,M,Senior Staff,1998-07-22,9999-01-01
+d008,487505,Uno,Jayawardene,1965-01-20,F,Senior Staff,1993-11-01,9999-01-01
+d007,238252,Uno,Suppi,1965-01-09,M,Staff,1996-12-27,9999-01-01
+d001,241292,Uri,Lampe,1965-01-29,M,Senior Staff,1994-10-17,9999-01-01
+d008,427313,Utpal,Kemmerer,1965-01-31,M,Senior Staff,1991-12-04,9999-01-01
+d001,20100,Utz,Heuter,1965-01-18,F,Senior Staff,1995-06-15,9999-01-01
+d005,459172,Val,Rissanen,1965-01-19,F,Engineer,1999-11-20,9999-01-01
+d004,29418,Valery,Mersereau,1965-01-22,M,Assistant Engineer,1998-07-01,9999-01-01
+d005,445570,Van,Nations,1965-01-25,F,Technique Leader,1986-08-11,9999-01-01
+d004,206865,Vasilii,Cochrane,1965-01-28,M,Senior Engineer,1996-09-12,2001-04-23
+d006,297804,Vasilis,Ginneken,1965-01-16,M,Engineer,1985-09-13,1990-04-08
+d005,424984,Vasilis,Waleschkowski,1965-01-11,M,Engineer,1996-05-26,9999-01-01
+d007,238422,Vishv,Angelov,1965-01-10,M,Senior Staff,1996-03-08,9999-01-01
+d006,92454,Visit,McFarlan,1965-01-24,M,Senior Engineer,1996-10-21,9999-01-01
+d005,431657,Visit,Thiran,1965-01-31,F,Senior Engineer,1991-11-14,9999-01-01
+d005,269186,Vitali,Dayang,1965-01-23,M,Technique Leader,1988-09-21,1992-10-21
+d005,90077,Vivian,Guerreiro,1965-01-24,M,Engineer,1998-07-08,9999-01-01
+d004,44959,Volkmar,Uhrik,1965-01-21,F,Senior Engineer,1995-01-16,9999-01-01
+d009,260249,Vugranam,Beausoleil,1965-01-22,F,Staff,1998-05-14,9999-01-01
+d005,201801,Waiman,Genin,1965-01-12,M,Senior Engineer,1995-10-30,9999-01-01
+d004,472950,Weidon,Fordan,1965-01-29,F,Senior Engineer,1986-03-27,9999-01-01
+d003,402827,Weidon,Pollacia,1965-01-28,F,Senior Staff,1996-02-27,9999-01-01
+d004,426958,Weijing,Viele,1965-01-19,M,Senior Engineer,1993-10-03,9999-01-01
+d007,455415,Weiye,Krohm,1965-01-10,F,Senior Staff,1999-10-29,2000-02-10
+d001,420732,Willard,Morrin,1965-01-06,M,Senior Staff,2001-05-27,9999-01-01
+d004,296962,Wilmer,Luke,1965-01-28,F,Technique Leader,1987-02-13,1999-02-15
+d003,436827,Wojceich,Limongiello,1965-01-30,F,Senior Staff,1988-03-10,9999-01-01
+d003,433465,Wonhee,Benveniste,1965-01-12,M,Senior Staff,1985-12-21,1987-03-23
+d004,262154,Wonhee,Vrecion,1965-01-16,M,Senior Engineer,1991-03-14,1996-08-28
+d009,488788,Wuxu,Garigliano,1965-01-12,M,Senior Staff,1997-09-21,9999-01-01
+d005,414091,Wuxu,Kuhnemann,1965-01-17,M,Engineer,1997-08-19,9999-01-01
+d007,241917,Wuxu,Poupard,1965-02-01,M,Staff,1994-02-15,1995-09-25
+d007,46328,Wuxu,Trogemann,1965-01-05,F,Senior Staff,1997-01-27,9999-01-01
+d003,410028,Xiadong,McClurg,1965-01-11,M,Senior Staff,1994-09-17,9999-01-01
+d009,99373,Xiaobin,Christianini,1965-01-13,M,Senior Staff,1991-12-25,9999-01-01
+d002,109553,Xiaobin,DuBourdieux,1965-01-19,M,Staff,1985-09-16,1988-05-11
+d005,216502,Xiaocheng,Suermann,1965-01-26,F,Engineer,1997-12-15,9999-01-01
+d007,214215,Xiaoqiang,Cardazo,1965-01-25,M,Senior Staff,1993-05-28,9999-01-01
+d004,454791,Xiaoqiu,Pietracaprina,1965-01-22,M,Senior Engineer,1994-07-09,9999-01-01
+d009,77303,Xinglin,Birge,1965-01-18,F,Senior Staff,2001-03-05,9999-01-01
+d004,444228,Xinglin,Busillo,1965-01-23,F,Senior Engineer,1998-10-08,1999-06-11
+d007,282343,Xinglin,Haldar,1965-01-13,M,Senior Staff,1993-07-20,9999-01-01
+d005,28193,Xinglin,Mitsuhashi,1965-01-29,M,Senior Engineer,1997-12-14,9999-01-01
+d006,430558,Xiong,Roisin,1965-01-07,F,Senior Engineer,1995-03-02,9999-01-01
+d005,41520,Xiong,Uhrik,1965-01-20,M,Senior Engineer,1988-03-21,9999-01-01
+d004,426683,Xudong,Muntz,1965-01-03,M,Engineer,1991-03-08,1996-04-02
+d005,457411,Xudong,Peck,1965-01-13,M,Senior Engineer,1988-04-18,9999-01-01
+d003,295254,Xuejun,Pfau,1965-01-15,M,Senior Staff,1993-07-24,9999-01-01
+d003,424930,Xuejun,Reeker,1965-01-19,F,Senior Staff,1997-11-18,9999-01-01
+d007,486918,Yagil,Remmers,1965-01-18,F,Senior Staff,1994-11-01,9999-01-01
+d004,91229,Yahiko,Hebden,1965-01-01,M,Senior Engineer,2001-10-03,9999-01-01
+d006,457653,Yakichi,Naumovich,1965-01-21,F,Technique Leader,1988-06-12,1988-07-03
+d007,30938,Yakkov,Samarati,1965-01-06,F,Senior Staff,2000-05-22,9999-01-01
+d004,401574,Yannik,Falco,1965-01-13,M,Technique Leader,1988-01-15,9999-01-01
+d001,466603,Yechezkel,Nourani,1965-01-23,F,Senior Staff,1996-07-31,9999-01-01
+d001,288560,Yifei,Birjandi,1965-01-16,M,Senior Staff,1999-02-07,9999-01-01
+d003,435226,Yinghua,Panwar,1965-01-12,M,Senior Staff,1994-06-11,1996-02-26
+d005,30552,Yishai,Terlouw,1965-01-18,F,Senior Engineer,1992-09-18,1999-01-07
+d004,273274,Yolla,Kobara,1965-01-08,F,Engineer,1995-12-29,1997-04-16
+d004,90614,Yonghoan,Trogemann,1965-01-29,M,Engineer,1997-09-23,9999-01-01
+d004,11432,Yongmao,Zwicker,1965-01-15,M,Senior Engineer,1996-10-18,1997-09-13
+d007,21546,Yongmin,Lanteri,1965-01-01,F,Senior Staff,1988-02-16,9999-01-01
+d008,87729,Yongmin,Roccetti,1965-01-24,M,Senior Staff,1991-12-10,9999-01-01
+d009,408654,Yongqiao,Cochrane,1965-01-09,M,Senior Staff,1991-10-27,9999-01-01
+d007,206748,Yucai,Fabrizio,1965-01-07,F,Staff,1999-10-06,9999-01-01
+d004,68608,Yucai,Seghrouchni,1965-01-26,M,Senior Engineer,1994-06-09,9999-01-01
+d007,41609,Yucai,Simmen,1965-01-04,F,Senior Staff,1987-10-13,9999-01-01
+d004,271975,Yuchang,Busillo,1965-01-14,F,Engineer,1986-03-30,1989-11-14
+d007,217272,Yuchang,Eldridge,1965-01-21,M,Senior Staff,1991-08-01,9999-01-01
+d004,476488,Yuping,Kuhnemann,1965-01-30,F,Technique Leader,1986-12-13,1994-07-07
+d006,446785,Yuping,Papastamatiou,1965-01-30,M,Engineer,1988-08-30,1992-01-16
+d008,228248,Yuriy,Plump,1965-01-09,F,Senior Staff,1995-09-09,9999-01-01
+d004,264030,Zdislav,Solares,1965-01-15,M,Engineer,1998-12-14,9999-01-01
+d005,404236,Zengping,Kakkar,1965-01-12,M,Senior Engineer,1996-07-22,9999-01-01
+d005,472790,Zhenbing,Ibel,1965-01-23,M,Senior Engineer,1985-10-29,9999-01-01
+d007,487008,Zhigen,Raney,1965-01-22,F,Senior Staff,1993-05-26,9999-01-01
+d005,470472,Zhiguo,Staudhammer,1965-02-01,F,Senior Engineer,1991-12-03,9999-01-01
+d002,211569,Zhonghua,Snyers,1965-02-01,F,Senior Staff,1994-10-08,1999-07-18
+d007,24394,Zhonghui,Conta,1965-01-04,M,Staff,1994-09-10,9999-01-01
+d006,246146,Zhongwei,Melski,1965-01-30,F,Senior Engineer,1993-09-03,9999-01-01
+d007,59329,Zissis,Bazzichi,1965-01-15,M,Staff,1987-02-07,1991-01-25
+d005,75113,Zissis,Birch,1965-01-22,M,Senior Engineer,1999-08-19,2000-07-15
+d004,233759,Zissis,Lodder,1965-01-14,F,Engineer,1999-09-25,9999-01-01
+d005,490568,Zita,Reistad,1965-01-01,M,Senior Engineer,1998-07-23,9999-01-01
+d003,252241,Zito,Alvarado,1965-01-15,F,Senior Staff,1986-07-07,2000-09-18
+d005,19803,Ziva,Kowalchuk,1965-01-30,F,Senior Engineer,1992-06-12,9999-01-01
+d005,98306,Ziya,Kadhim,1965-01-16,M,Senior Engineer,1995-11-02,9999-01-01
+d004,292828,Ziya,Tokunaga,1965-01-10,F,Senior Engineer,1995-01-08,9999-01-01
+d004,104962,Zongyan,Auyong,1965-01-04,F,Engineer,1987-11-02,1991-12-22
+d005,26788,Zongyan,Dalphin,1965-01-25,M,Senior Engineer,1993-04-23,9999-01-01
+d005,203495,Zongyan,Gips,1965-01-02,M,Technique Leader,1997-05-31,9999-01-01
+d004,474796,Zongyan,Shackel,1965-01-10,M,Technique Leader,1986-11-09,9999-01-01
+d001,266206,Zsolt,Anily,1965-02-01,F,Senior Staff,1991-08-19,9999-01-01
+d001,59869,Zsolt,Riefers,1965-02-01,M,Senior Staff,1994-09-25,9999-01-01
+d009,202414,Zvonko,Murthy,1965-01-13,F,Senior Staff,1992-01-07,9999-01-01
+d008,266310,Zvonko,Serdy,1965-01-23,F,Senior Staff,1992-06-23,9999-01-01
